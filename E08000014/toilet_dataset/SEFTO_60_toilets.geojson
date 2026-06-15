@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SEFTO_60_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "New Strand Bus Station", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 84, "park_offical_id": "SEFTO_60" }, "geometry": { "type": "Point", "coordinates": [ -2.993165259, 53.452380955 ] } },
+{ "type": "Feature", "properties": { "name": "Bootle Oriel Road", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 84, "park_offical_id": "SEFTO_60" }, "geometry": { "type": "Point", "coordinates": [ -2.995221639, 53.44762574 ] } },
+{ "type": "Feature", "properties": { "name": "Asda", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 84, "park_offical_id": "SEFTO_60" }, "geometry": { "type": "Point", "coordinates": [ -2.996306419, 53.45177783 ] } }
+]
+}

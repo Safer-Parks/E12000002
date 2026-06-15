@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "STHEL_116_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dunelm St Helens", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 11, "park_offical_id": "STHEL_116" }, "geometry": { "type": "Point", "coordinates": [ -2.725397944, 53.448976156 ] } },
+{ "type": "Feature", "properties": { "name": "Disabled and baby change", "payment_info": "Cost unknown", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 11, "park_offical_id": "STHEL_116" }, "geometry": { "type": "Point", "coordinates": [ -2.733188897, 53.451320133 ] } },
+{ "type": "Feature", "properties": { "name": "Stay Marys market", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 11, "park_offical_id": "STHEL_116" }, "geometry": { "type": "Point", "coordinates": [ -2.733485709, 53.451069273 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "LIVER_401_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 189, "park_offical_id": "LIVER_401" }, "geometry": { "type": "Point", "coordinates": [ -2.898030281, 53.415133226 ] } },
+{ "type": "Feature", "properties": { "name": "The Navigator", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 189, "park_offical_id": "LIVER_401" }, "geometry": { "type": "Point", "coordinates": [ -2.90587306, 53.415024297 ] } },
+{ "type": "Feature", "properties": { "name": "Sainsburys", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 189, "park_offical_id": "LIVER_401" }, "geometry": { "type": "Point", "coordinates": [ -2.898030281, 53.415133226 ] } },
+{ "type": "Feature", "properties": { "name": "Lifestyles Cardinal Heenan Honeysgreen Lane", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "16:00-21:30", "Tue": "16:00-21:30", "Wed": "16:00-21:30", "Thu": "16:00-21:30", "Fri": "16:00-21:30", "Sat": "Closed", "Sun": "Closed", "index_right": 189, "park_offical_id": "LIVER_401" }, "geometry": { "type": "Point", "coordinates": [ -2.8899128, 53.423486209 ] } }
+]
+}

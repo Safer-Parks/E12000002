@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "LIVER_140_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Liverpool South Parkway", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 46, "park_offical_id": "LIVER_140" }, "geometry": { "type": "Point", "coordinates": [ -2.889495492, 53.35630387 ] } },
+{ "type": "Feature", "properties": { "name": "Garston Library Bowden Road", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 46, "park_offical_id": "LIVER_140" }, "geometry": { "type": "Point", "coordinates": [ -2.9060489, 53.3582126 ] } },
+{ "type": "Feature", "properties": { "name": "Lifestyles Garston", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "06:15-22:00", "Tue": "06:15-22:00", "Wed": "06:15-22:00", "Thu": "06:15-22:00", "Fri": "06:15-22:00", "Sat": "Closed", "Sun": "Closed", "index_right": 46, "park_offical_id": "LIVER_140" }, "geometry": { "type": "Point", "coordinates": [ -2.895884514, 53.35910331 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WIRRA_109_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hoylake Station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 11, "park_offical_id": "WIRRA_109" }, "geometry": { "type": "Point", "coordinates": [ -3.178895116, 53.39000072 ] } },
+{ "type": "Feature", "properties": { "name": "Meols Parade Gardens", "payment_info": "30p", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 11, "park_offical_id": "WIRRA_109" }, "geometry": { "type": "Point", "coordinates": [ -3.17548354, 53.39974272 ] } }
+]
+}

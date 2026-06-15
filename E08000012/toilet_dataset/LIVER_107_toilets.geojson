@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "LIVER_107_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Strawberry Field", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "10:00-17:00", "Tue": "10:00-17:00", "Wed": "10:00-17:00", "Thu": "10:00-17:00", "Fri": "10:00-17:00", "Sat": "10:00-17:00", "Sun": "10:00-17:00", "index_right": 10, "park_offical_id": "LIVER_107" }, "geometry": { "type": "Point", "coordinates": [ -2.883472059, 53.380139896 ] } },
+{ "type": "Feature", "properties": { "name": "Calderstones Park  Rear of Mansion House", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 10, "park_offical_id": "LIVER_107" }, "geometry": { "type": "Point", "coordinates": [ -2.8943876, 53.3816844 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco Mather Avenue", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "07:00-00:00", "Tue": "07:00-00:00", "Wed": "07:00-00:00", "Thu": "07:00-00:00", "Fri": "07:00-00:00", "Sat": "07:00-00:00", "Sun": "10:00-16:00", "index_right": 10, "park_offical_id": "LIVER_107" }, "geometry": { "type": "Point", "coordinates": [ -2.909295559, 53.381302959 ] } }
+]
+}

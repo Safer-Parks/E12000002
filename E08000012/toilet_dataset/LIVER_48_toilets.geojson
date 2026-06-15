@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "LIVER_48_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lifestyles Peter Lloyd Bankfield Road", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 203, "park_offical_id": "LIVER_48" }, "geometry": { "type": "Point", "coordinates": [ -2.924525142, 53.426487384 ] } },
+{ "type": "Feature", "properties": { "name": "Newsham Park Pavilion", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 203, "park_offical_id": "LIVER_48" }, "geometry": { "type": "Point", "coordinates": [ -2.933620512, 53.417873725 ] } },
+{ "type": "Feature", "properties": { "name": "Newsham Park", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 203, "park_offical_id": "LIVER_48" }, "geometry": { "type": "Point", "coordinates": [ -2.933853969, 53.417896169 ] } },
+{ "type": "Feature", "properties": { "name": "Sports Pavillion Newsham Park", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "10:00-16:00", "Tue": "10:00-16:00", "Wed": "10:00-16:00", "Thu": "10:00-16:00", "Fri": "10:00-16:00", "Sat": "10:00-16:00", "Sun": "10:00-16:00", "index_right": 203, "park_offical_id": "LIVER_48" }, "geometry": { "type": "Point", "coordinates": [ -2.936820388, 53.415240933 ] } }
+]
+}

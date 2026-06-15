@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "STHEL_123_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Asda St Helens", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 18, "park_offical_id": "STHEL_123" }, "geometry": { "type": "Point", "coordinates": [ -2.74481982, 53.454606471 ] } },
+{ "type": "Feature", "properties": { "name": "Morrisons", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 18, "park_offical_id": "STHEL_123" }, "geometry": { "type": "Point", "coordinates": [ -2.752584815, 53.450520773 ] } }
+]
+}

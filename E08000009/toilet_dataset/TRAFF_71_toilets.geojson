@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TRAFF_71_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Asda", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:00-18:00", "Tue": "08:00-18:00", "Wed": "08:00-18:00", "Thu": "08:00-18:00", "Fri": "08:00-18:00", "Sat": "08:00-18:00", "Sun": "10:00-16:00", "index_right": 100, "park_offical_id": "TRAFF_71" }, "geometry": { "type": "Point", "coordinates": [ -2.313745916, 53.369044468 ] } },
+{ "type": "Feature", "properties": { "name": "Hale croft park toilets", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 100, "park_offical_id": "TRAFF_71" }, "geometry": { "type": "Point", "coordinates": [ -2.318973541, 53.373382686 ] } }
+]
+}

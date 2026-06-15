@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "LANCA_24_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Market street car park public toilets", "payment_info": "020", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 48, "park_offical_id": "LANCA_24" }, "geometry": { "type": "Point", "coordinates": [ -2.86642313, 54.071237623 ] } },
+{ "type": "Feature", "properties": { "name": "Queen Vic toilets", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 48, "park_offical_id": "LANCA_24" }, "geometry": { "type": "Point", "coordinates": [ -2.858585715, 54.072827195 ] } },
+{ "type": "Feature", "properties": { "name": "Clock tower", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 48, "park_offical_id": "LANCA_24" }, "geometry": { "type": "Point", "coordinates": [ -2.866299748, 54.073362285 ] } },
+{ "type": "Feature", "properties": { "name": "Morecambe Town Hall", "payment_info": "nil", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 48, "park_offical_id": "LANCA_24" }, "geometry": { "type": "Point", "coordinates": [ -2.858226464, 54.075877394 ] } }
+]
+}

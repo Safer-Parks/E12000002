@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WIRRA_71_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tam O Shanter Farm Boundary Road", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:30-16:30", "Tue": "09:30-16:30", "Wed": "09:30-16:30", "Thu": "09:30-16:30", "Fri": "09:30-16:30", "Sat": "09:30-16:30", "Sun": "09:30-16:30", "index_right": 121, "park_offical_id": "WIRRA_71" }, "geometry": { "type": "Point", "coordinates": [ -3.067002782, 53.397531287 ] } }
+]
+}

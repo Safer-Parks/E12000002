@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "LANCA_60_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Market street car park public toilets", "payment_info": "020", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 86, "park_offical_id": "LANCA_60" }, "geometry": { "type": "Point", "coordinates": [ -2.86642313, 54.071237623 ] } },
+{ "type": "Feature", "properties": { "name": "Festival Market", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "07:30-17:30", "Tue": "07:30-17:30", "Wed": "07:30-17:30", "Thu": "07:30-17:30", "Fri": "07:30-17:30", "Sat": "07:30-17:30", "Sun": "07:30-17:30", "index_right": 86, "park_offical_id": "LANCA_60" }, "geometry": { "type": "Point", "coordinates": [ -2.8735563, 54.0710506 ] } },
+{ "type": "Feature", "properties": { "name": "Morrisons supermarket toilets", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 86, "park_offical_id": "LANCA_60" }, "geometry": { "type": "Point", "coordinates": [ -2.873450518, 54.069411901 ] } },
+{ "type": "Feature", "properties": { "name": "Clock tower", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 86, "park_offical_id": "LANCA_60" }, "geometry": { "type": "Point", "coordinates": [ -2.866299748, 54.073362285 ] } }
+]
+}

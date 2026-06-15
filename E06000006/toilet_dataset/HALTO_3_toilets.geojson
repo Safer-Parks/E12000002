@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HALTO_3_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Albert Square", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "Closed", "index_right": 23, "park_offical_id": "HALTO_3" }, "geometry": { "type": "Point", "coordinates": [ -2.7266922, 53.3685144 ] } },
+{ "type": "Feature", "properties": { "name": "Library", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 23, "park_offical_id": "HALTO_3" }, "geometry": { "type": "Point", "coordinates": [ -2.73332119, 53.362176613 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WYRE__23_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Thornton Shopping Precinct Public Conveniences", "payment_info": "40p Radar key access  free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 18, "park_offical_id": "WYRE__23" }, "geometry": { "type": "Point", "coordinates": [ -3.000697685, 53.870501746 ] } },
+{ "type": "Feature", "properties": { "name": "Wyre Estuary Country Park Visitor Centre Public Conveniences", "payment_info": "40p Radar key access  free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 18, "park_offical_id": "WYRE__23" }, "geometry": { "type": "Point", "coordinates": [ -2.982627153, 53.879574082 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WIGAN_45_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "KFC PEMBERTON", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 101, "park_offical_id": "WIGAN_45" }, "geometry": { "type": "Point", "coordinates": [ -2.685320377, 53.536877133 ] } },
+{ "type": "Feature", "properties": { "name": "The Mount Restaurant Toilet", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "07:00-23:00", "Tue": "07:00-23:00", "Wed": "07:00-23:00", "Thu": "07:00-23:00", "Fri": "07:00-00:00", "Sat": "10:00-02:00", "Sun": "10:00-00:00", "index_right": 101, "park_offical_id": "WIGAN_45" }, "geometry": { "type": "Point", "coordinates": [ -2.69856436, 53.539157468 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WIRRA_107_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bebington Library", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 9, "park_offical_id": "WIRRA_107" }, "geometry": { "type": "Point", "coordinates": [ -3.004581034, 53.349912492 ] } },
+{ "type": "Feature", "properties": { "name": "New Ferry Butterfly Park", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Closed", "Tue": "Closed", "Wed": "Closed", "Thu": "Closed", "Fri": "Closed", "Sat": "Closed", "Sun": "12:00-16:00", "index_right": 9, "park_offical_id": "WIRRA_107" }, "geometry": { "type": "Point", "coordinates": [ -3.0034464, 53.3590809 ] } }
+]
+}

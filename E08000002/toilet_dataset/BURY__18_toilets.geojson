@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BURY__18_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Market Street", "payment_info": "There is a charge for this service", "accessible": "False", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "09:00-15:00", "Tue": "09:00-15:00", "Wed": "09:00-15:00", "Thu": "09:00-15:00", "Fri": "09:00-15:00", "Sat": "09:00-15:00", "Sun": "Closed", "index_right": 18, "park_offical_id": "BURY__18" }, "geometry": { "type": "Point", "coordinates": [ -2.3406303, 53.6128783 ] } }
+]
+}

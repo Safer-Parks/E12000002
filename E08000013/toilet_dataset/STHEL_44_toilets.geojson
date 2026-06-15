@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "STHEL_44_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "St Helens Hospital", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 56, "park_offical_id": "STHEL_44" }, "geometry": { "type": "Point", "coordinates": [ -2.719008923, 53.439458028 ] } },
+{ "type": "Feature", "properties": { "name": "Morrisons", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 56, "park_offical_id": "STHEL_44" }, "geometry": { "type": "Point", "coordinates": [ -2.713204622, 53.441860948 ] } }
+]
+}

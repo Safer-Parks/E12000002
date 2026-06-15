@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "LIVER_61_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "McDonalds stonedale retail park", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 218, "park_offical_id": "LIVER_61" }, "geometry": { "type": "Point", "coordinates": [ -2.91564703, 53.456540572 ] } }
+]
+}

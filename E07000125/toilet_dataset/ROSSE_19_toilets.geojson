@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "ROSSE_19_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "James St WCs", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 11, "park_offical_id": "ROSSE_19" }, "geometry": { "type": "Point", "coordinates": [ -2.285739106, 53.701044831 ] } },
+{ "type": "Feature", "properties": { "name": "The Whitaker Museum and Art Gallery", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Closed", "Tue": "Closed", "Wed": "10:00-16:00", "Thu": "10:00-20:00", "Fri": "10:00-16:00", "Sat": "10:00-16:00", "Sun": "10:00-16:00", "index_right": 11, "park_offical_id": "ROSSE_19" }, "geometry": { "type": "Point", "coordinates": [ -2.296915414, 53.70035517 ] } },
+{ "type": "Feature", "properties": { "name": "Rawtenstall Market Newchurch Road", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 11, "park_offical_id": "ROSSE_19" }, "geometry": { "type": "Point", "coordinates": [ -2.284587622, 53.704485502 ] } },
+{ "type": "Feature", "properties": { "name": "Whitaker Park", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 11, "park_offical_id": "ROSSE_19" }, "geometry": { "type": "Point", "coordinates": [ -2.2963733, 53.700642813 ] } },
+{ "type": "Feature", "properties": { "name": "Rawtenstall Library", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 11, "park_offical_id": "ROSSE_19" }, "geometry": { "type": "Point", "coordinates": [ -2.288503102, 53.700761705 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TAMES_52_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 68, "park_offical_id": "TAMES_52" }, "geometry": { "type": "Point", "coordinates": [ -2.0677643, 53.4895413 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 68, "park_offical_id": "TAMES_52" }, "geometry": { "type": "Point", "coordinates": [ -2.072660702, 53.486373355 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 68, "park_offical_id": "TAMES_52" }, "geometry": { "type": "Point", "coordinates": [ -2.0698051, 53.4880695 ] } }
+]
+}

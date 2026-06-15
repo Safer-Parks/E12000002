@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOURI_36_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 78, "park_offical_id": "SOURI_36" }, "geometry": { "type": "Point", "coordinates": [ -2.659753561, 53.729459492 ] } }
+]
+}

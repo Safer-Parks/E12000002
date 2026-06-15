@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "LIVER_50_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sudley House ", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Closed", "Tue": "10:00-17:00", "Wed": "10:00-17:00", "Thu": "10:00-17:00", "Fri": "10:00-17:00", "Sat": "10:00-17:00", "Sun": "10:00-17:00", "index_right": 206, "park_offical_id": "LIVER_50" }, "geometry": { "type": "Point", "coordinates": [ -2.921365664, 53.373375638 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco Mather Avenue", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "07:00-00:00", "Tue": "07:00-00:00", "Wed": "07:00-00:00", "Thu": "07:00-00:00", "Fri": "07:00-00:00", "Sat": "07:00-00:00", "Sun": "10:00-16:00", "index_right": 206, "park_offical_id": "LIVER_50" }, "geometry": { "type": "Point", "coordinates": [ -2.909295559, 53.381302959 ] } }
+]
+}

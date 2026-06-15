@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WIRRA_59_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Liscard Road Central Park", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:30-15:45", "Tue": "08:30-15:45", "Wed": "08:30-15:45", "Thu": "08:30-15:45", "Fri": "08:30-15:45", "Sat": "08:30-15:45", "Sun": "08:30-15:45", "index_right": 107, "park_offical_id": "WIRRA_59" }, "geometry": { "type": "Point", "coordinates": [ -3.031118177, 53.416184089 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:30-15:45", "Tue": "08:30-15:45", "Wed": "08:30-15:45", "Thu": "08:30-15:45", "Fri": "08:30-15:45", "Sat": "08:30-15:45", "Sun": "08:30-15:45", "index_right": 107, "park_offical_id": "WIRRA_59" }, "geometry": { "type": "Point", "coordinates": [ -3.0362678, 53.4184515 ] } },
+{ "type": "Feature", "properties": { "name": "Cherry Tree Centre", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 107, "park_offical_id": "WIRRA_59" }, "geometry": { "type": "Point", "coordinates": [ -3.045226616, 53.419082809 ] } }
+]
+}

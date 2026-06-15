@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "LIVER_145_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "McDonalds", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 50, "park_offical_id": "LIVER_145" }, "geometry": { "type": "Point", "coordinates": [ -2.923082113, 53.409819069 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco Old Swan", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 50, "park_offical_id": "LIVER_145" }, "geometry": { "type": "Point", "coordinates": [ -2.916398048, 53.413151299 ] } },
+{ "type": "Feature", "properties": { "name": "Hollywood Bowl", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 50, "park_offical_id": "LIVER_145" }, "geometry": { "type": "Point", "coordinates": [ -2.923597097, 53.408418551 ] } },
+{ "type": "Feature", "properties": { "name": "The Range Edge Lane", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 50, "park_offical_id": "LIVER_145" }, "geometry": { "type": "Point", "coordinates": [ -2.932115793, 53.408711415 ] } }
+]
+}

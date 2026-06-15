@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BLAWI_1_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Darwen Market Downstairs", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 1, "park_offical_id": "BLAWI_1" }, "geometry": { "type": "Point", "coordinates": [ -2.466314, 53.696236 ] } },
+{ "type": "Feature", "properties": { "name": "Darwen Town Hall Reception Croft Street", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:45-17:00", "Tue": "08:45-17:00", "Wed": "08:45-17:00", "Thu": "08:45-17:00", "Fri": "08:45-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 1, "park_offical_id": "BLAWI_1" }, "geometry": { "type": "Point", "coordinates": [ -2.4672197, 53.6955928 ] } }
+]
+}

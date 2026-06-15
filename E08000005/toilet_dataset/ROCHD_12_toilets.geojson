@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ROCHD_12_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "010", "accessible": "False", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 9, "park_offical_id": "ROCHD_12" }, "geometry": { "type": "Point", "coordinates": [ -2.2209224, 53.5940862 ] } }
+]
+}

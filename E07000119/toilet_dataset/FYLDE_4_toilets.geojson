@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "FYLDE_4_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Pleasant Street Car Park North Clifton Street", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 30, "park_offical_id": "FYLDE_4" }, "geometry": { "type": "Point", "coordinates": [ -2.9610171, 53.7377629 ] } },
+{ "type": "Feature", "properties": { "name": "The Windmill Lytham Green", "payment_info": "020", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 30, "park_offical_id": "FYLDE_4" }, "geometry": { "type": "Point", "coordinates": [ -2.9546577, 53.7358225 ] } },
+{ "type": "Feature", "properties": { "name": "Fairhaven Bowling Green", "payment_info": "020", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 30, "park_offical_id": "FYLDE_4" }, "geometry": { "type": "Point", "coordinates": [ -3.000809, 53.738461 ] } },
+{ "type": "Feature", "properties": { "name": "Lowther Gardens  Pavilion West Beach Lytham St Annes", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "06:00-23:00", "Tue": "06:00-23:00", "Wed": "06:00-23:00", "Thu": "06:00-23:00", "Fri": "06:00-23:00", "Sat": "06:00-23:00", "Sun": "06:00-23:00", "index_right": 30, "park_offical_id": "FYLDE_4" }, "geometry": { "type": "Point", "coordinates": [ -2.971689105, 53.735136649 ] } },
+{ "type": "Feature", "properties": { "name": "Stanner Bank Car Park", "payment_info": "20p", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 30, "park_offical_id": "FYLDE_4" }, "geometry": { "type": "Point", "coordinates": [ -2.996006012, 53.738660289 ] } }
+]
+}

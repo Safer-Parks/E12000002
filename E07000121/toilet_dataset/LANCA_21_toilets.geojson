@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "LANCA_21_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Battery", "payment_info": "there is a fee at this toilet", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:00-17:00", "Tue": "08:00-17:00", "Wed": "08:00-17:00", "Thu": "08:00-17:00", "Fri": "08:00-17:00", "Sat": "08:00-17:00", "Sun": "08:00-17:00", "index_right": 45, "park_offical_id": "LANCA_21" }, "geometry": { "type": "Point", "coordinates": [ -2.885627747, 54.064861412 ] } }
+]
+}

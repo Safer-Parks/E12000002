@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BURY__93_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "St Pauls Church", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Closed", "Tue": "Closed", "Wed": "Closed", "Thu": "Closed", "Fri": "Closed", "Sat": "10:00-12:00", "Sun": "Closed", "index_right": 88, "park_offical_id": "BURY__93" }, "geometry": { "type": "Point", "coordinates": [ -2.316248417, 53.648485428 ] } },
+{ "type": "Feature", "properties": { "name": "Market Chambers", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 88, "park_offical_id": "BURY__93" }, "geometry": { "type": "Point", "coordinates": [ -2.3182468, 53.649223 ] } }
+]
+}

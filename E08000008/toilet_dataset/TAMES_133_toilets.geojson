@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TAMES_133_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:30-16:30", "Tue": "09:30-16:30", "Wed": "09:30-16:30", "Thu": "09:30-16:30", "Fri": "09:30-16:30", "Sat": "Closed", "Sun": "Closed", "index_right": 19, "park_offical_id": "TAMES_133" }, "geometry": { "type": "Point", "coordinates": [ -2.05586493, 53.48293998 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 19, "park_offical_id": "TAMES_133" }, "geometry": { "type": "Point", "coordinates": [ -2.0561382, 53.4825845 ] } }
+]
+}

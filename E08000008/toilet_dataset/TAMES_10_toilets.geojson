@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TAMES_10_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "False", "Mon": "07:00-19:00", "Tue": "07:00-19:00", "Wed": "07:00-19:00", "Thu": "07:00-19:00", "Fri": "07:00-19:00", "Sat": "07:00-19:00", "Sun": "07:00-19:00", "index_right": 2, "park_offical_id": "TAMES_10" }, "geometry": { "type": "Point", "coordinates": [ -2.112123249, 53.443971213 ] } }
+]
+}

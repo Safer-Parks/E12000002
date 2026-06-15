@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BURY__58_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Heaton Park Main Toilet Block", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 62, "park_offical_id": "BURY__58" }, "geometry": { "type": "Point", "coordinates": [ -2.2537752, 53.5371243 ] } },
+{ "type": "Feature", "properties": { "name": "Heaton Park Stable Block", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 62, "park_offical_id": "BURY__58" }, "geometry": { "type": "Point", "coordinates": [ -2.25559026, 53.53602908 ] } },
+{ "type": "Feature", "properties": { "name": "Heaton Park Lakeside", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 62, "park_offical_id": "BURY__58" }, "geometry": { "type": "Point", "coordinates": [ -2.257127166, 53.53088298 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "LIVER_116_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hunts Cross Train Station", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 20, "park_offical_id": "LIVER_116" }, "geometry": { "type": "Point", "coordinates": [ -2.855468988, 53.360707217 ] } }
+]
+}

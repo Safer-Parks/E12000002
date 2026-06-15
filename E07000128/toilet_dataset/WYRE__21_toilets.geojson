@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WYRE__21_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bold Street Public Conveniences", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 16, "park_offical_id": "WYRE__21" }, "geometry": { "type": "Point", "coordinates": [ -3.008290529, 53.927688322 ] } },
+{ "type": "Feature", "properties": { "name": "Marine Hall carpark", "payment_info": "030", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 16, "park_offical_id": "WYRE__21" }, "geometry": { "type": "Point", "coordinates": [ -3.016562462, 53.927193998 ] } },
+{ "type": "Feature", "properties": { "name": "Marine Hall Car Park Public Conveniences", "payment_info": "20p Radar key access  free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 16, "park_offical_id": "WYRE__21" }, "geometry": { "type": "Point", "coordinates": [ -3.012759582, 53.927179219 ] } },
+{ "type": "Feature", "properties": { "name": "Preston Street Public Conveniences", "payment_info": "20p Radar key access  free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 16, "park_offical_id": "WYRE__21" }, "geometry": { "type": "Point", "coordinates": [ -3.011878914, 53.921622951 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HYNDB_8_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Accrington Market Hall", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:30-16:45", "Tue": "08:30-16:45", "Wed": "08:30-16:45", "Thu": "08:30-16:45", "Fri": "08:30-16:45", "Sat": "08:30-16:45", "Sun": "08:30-16:45", "index_right": 41, "park_offical_id": "HYNDB_8" }, "geometry": { "type": "Point", "coordinates": [ -2.364395907, 53.753447795 ] } }
+]
+}

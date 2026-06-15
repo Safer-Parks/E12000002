@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TRAFF_73_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Thorley Lane Car Park Healthmatic Automatic Public Toilet NOT IN USE", "payment_info": "20p OR RADAR Key", "accessible": "True", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 102, "park_offical_id": "TRAFF_73" }, "geometry": { "type": "Point", "coordinates": [ -2.319252491, 53.387388533 ] } }
+]
+}
