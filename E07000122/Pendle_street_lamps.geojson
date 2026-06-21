@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Pendle_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11660917590, "authority": "Pendle", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.182093, 53.8537329 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11660917594, "authority": "Pendle", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.1878039, 53.9170577 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11660917603, "authority": "Pendle", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.182451, 53.85366 ] } }
+]
+}

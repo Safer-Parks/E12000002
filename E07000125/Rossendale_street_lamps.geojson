@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Rossendale_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12014724495, "authority": "Rossendale", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.324721, 53.7150174 ] } }
+]
+}
