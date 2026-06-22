@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "CHEEA_87_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Macclesfield Railway Station", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 538, "park_offical_id": "CHEEA_87" }, "geometry": { "type": "Point", "coordinates": [ -2.122182548, 53.259417948 ] } },
+{ "type": "Feature", "properties": { "name": "Library toilets", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "10:00-19:00", "Tue": "10:00-17:00", "Wed": "10:00-17:00", "Thu": "10:00-19:00", "Fri": "10:00-13:00", "Sat": "09:00-13:00", "Sun": "Closed", "index_right": 538, "park_offical_id": "CHEEA_87" }, "geometry": { "type": "Point", "coordinates": [ -2.125347555, 53.261612818 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 538, "park_offical_id": "CHEEA_87" }, "geometry": { "type": "Point", "coordinates": [ -2.122909427, 53.264487799 ] } },
+{ "type": "Feature", "properties": { "name": "Grosvenor Centre", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 538, "park_offical_id": "CHEEA_87" }, "geometry": { "type": "Point", "coordinates": [ -2.127793729, 53.260303611 ] } },
+{ "type": "Feature", "properties": { "name": "Waters Green Medical Centre", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 538, "park_offical_id": "CHEEA_87" }, "geometry": { "type": "Point", "coordinates": [ -2.123075724, 53.258397488 ] } }
+]
+}

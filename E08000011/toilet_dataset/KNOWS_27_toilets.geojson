@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "KNOWS_27_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Headbolt Lane Railway Station", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "05:45-00:15", "Tue": "05:45-00:15", "Wed": "05:45-00:15", "Thu": "05:45-00:15", "Fri": "05:45-00:15", "Sat": "05:45-00:15", "Sun": "08:00-23:15", "index_right": 50, "park_offical_id": "KNOWS_27" }, "geometry": { "type": "Point", "coordinates": [ -2.885016372, 53.491291631 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MANCH_83_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Alexandra Park  The Pavilion Bembe Cafe", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "10:00-16:30", "Tue": "10:00-16:30", "Wed": "10:00-16:30", "Thu": "10:00-16:30", "Fri": "10:00-16:30", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 556, "park_offical_id": "MANCH_83" }, "geometry": { "type": "Point", "coordinates": [ -2.248587012, 53.44952603 ] } },
+{ "type": "Feature", "properties": { "name": "Fallowfield Library Platt Lane", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 556, "park_offical_id": "MANCH_83" }, "geometry": { "type": "Point", "coordinates": [ -2.237474306, 53.44678091 ] } }
+]
+}

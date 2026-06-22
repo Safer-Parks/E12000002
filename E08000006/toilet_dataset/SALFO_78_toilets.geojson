@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SALFO_78_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Salford Crescent", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 425, "park_offical_id": "SALFO_78" }, "geometry": { "type": "Point", "coordinates": [ -2.275312543, 53.485528745 ] } },
+{ "type": "Feature", "properties": { "name": "Salford Museum and Art Gallery", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Closed", "Tue": "11:30-16:00", "Wed": "11:30-16:00", "Thu": "11:30-16:00", "Fri": "11:30-16:00", "Sat": "11:30-16:00", "Sun": "11:30-16:00", "index_right": 425, "park_offical_id": "SALFO_78" }, "geometry": { "type": "Point", "coordinates": [ -2.271823883, 53.485045533 ] } }
+]
+}

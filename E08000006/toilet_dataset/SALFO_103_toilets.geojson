@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SALFO_103_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tesco Extra Salford", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "SALFO_103" }, "geometry": { "type": "Point", "coordinates": [ -2.29003787, 53.489890343 ] } },
+{ "type": "Feature", "properties": { "name": "Salford Shopping Centre", "payment_info": "Cost unknown", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "SALFO_103" }, "geometry": { "type": "Point", "coordinates": [ -2.28681922, 53.489775444 ] } },
+{ "type": "Feature", "properties": { "name": "Pendleton Gateway", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "SALFO_103" }, "geometry": { "type": "Point", "coordinates": [ -2.28474319, 53.488412589 ] } },
+{ "type": "Feature", "properties": { "name": "Salford Crescent", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "SALFO_103" }, "geometry": { "type": "Point", "coordinates": [ -2.275312543, 53.485528745 ] } },
+{ "type": "Feature", "properties": { "name": "Salford Museum and Art Gallery", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Closed", "Tue": "11:30-16:00", "Wed": "11:30-16:00", "Thu": "11:30-16:00", "Fri": "11:30-16:00", "Sat": "11:30-16:00", "Sun": "11:30-16:00", "index_right": 4, "park_offical_id": "SALFO_103" }, "geometry": { "type": "Point", "coordinates": [ -2.271823883, 53.485045533 ] } }
+]
+}

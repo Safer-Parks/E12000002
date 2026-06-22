@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "KNOWS_35_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "The Kirkby Centre", "payment_info": "Cost unknown", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 60, "park_offical_id": "KNOWS_35" }, "geometry": { "type": "Point", "coordinates": [ -2.890300155, 53.482226526 ] } },
+{ "type": "Feature", "properties": { "name": "Headbolt Lane Railway Station", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "05:45-00:15", "Tue": "05:45-00:15", "Wed": "05:45-00:15", "Thu": "05:45-00:15", "Fri": "05:45-00:15", "Sat": "05:45-00:15", "Sun": "08:00-23:15", "index_right": 60, "park_offical_id": "KNOWS_35" }, "geometry": { "type": "Point", "coordinates": [ -2.885016372, 53.491291631 ] } },
+{ "type": "Feature", "properties": { "name": "Kirkby Market", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 60, "park_offical_id": "KNOWS_35" }, "geometry": { "type": "Point", "coordinates": [ -2.884941101, 53.481514656 ] } }
+]
+}

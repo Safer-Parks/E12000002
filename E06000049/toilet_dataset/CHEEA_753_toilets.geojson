@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CHEEA_753_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hazel Grove Park  Ride", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 457, "park_offical_id": "CHEEA_753" }, "geometry": { "type": "Point", "coordinates": [ -2.112979889, 53.374243585 ] } },
+{ "type": "Feature", "properties": { "name": "Hazel Grove Park  Ride", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 457, "park_offical_id": "CHEEA_753" }, "geometry": { "type": "Point", "coordinates": [ -2.112979889, 53.374243585 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-16:00", "Tue": "09:00-16:00", "Wed": "09:00-16:00", "Thu": "09:00-16:00", "Fri": "09:00-16:00", "Sat": "Closed", "Sun": "Closed", "index_right": 457, "park_offical_id": "CHEEA_753" }, "geometry": { "type": "Point", "coordinates": [ -2.11315155, 53.376517363 ] } }
+]
+}

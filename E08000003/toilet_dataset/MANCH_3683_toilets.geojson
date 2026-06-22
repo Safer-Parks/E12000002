@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MANCH_3683_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Manchester Museum", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Closed", "Tue": "10:00-17:00", "Wed": "10:00-21:00", "Thu": "10:00-17:00", "Fri": "10:00-17:00", "Sat": "08:00-17:00", "Sun": "10:00-17:00", "index_right": 324, "park_offical_id": "MANCH_3683" }, "geometry": { "type": "Point", "coordinates": [ -2.234229147, 53.466363038 ] } },
+{ "type": "Feature", "properties": { "name": "Kilburn Building ", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "Closed", "Sun": "Closed", "index_right": 324, "park_offical_id": "MANCH_3683" }, "geometry": { "type": "Point", "coordinates": [ -2.234094943, 53.467687197 ] } }
+]
+}

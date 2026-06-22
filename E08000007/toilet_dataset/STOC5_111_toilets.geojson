@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "STOC5_111_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mc donalds", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 27, "park_offical_id": "STOC5_111" }, "geometry": { "type": "Point", "coordinates": [ -2.159890111, 53.420375873 ] } }
+]
+}
