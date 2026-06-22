@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "Knowsley_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4466623734, "authority": "Knowsley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.8043226, 53.4124881 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4466623735, "authority": "Knowsley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.8045806, 53.4122278 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4466623736, "authority": "Knowsley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.8043032, 53.4127264 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4466623737, "authority": "Knowsley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.8048974, 53.4128757 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4466623738, "authority": "Knowsley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.8037035, 53.4125885 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4466623739, "authority": "Knowsley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.8032742, 53.4125564 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4466654826, "authority": "Knowsley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.8404247, 53.4247668 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4466654827, "authority": "Knowsley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.8408223, 53.4246801 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4466654828, "authority": "Knowsley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.8413266, 53.4245744 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4466654829, "authority": "Knowsley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.8417376, 53.4244909 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4466869790, "authority": "Knowsley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.843774, 53.4225537 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4466869797, "authority": "Knowsley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.8440869, 53.4222898 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4470101777, "authority": "Knowsley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.8412277, 53.4296886 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11758863643, "authority": "Knowsley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -2.7452982, 53.4018701 ] } }
+]
+}
