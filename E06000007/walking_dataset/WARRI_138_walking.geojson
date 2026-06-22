@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WARRI_138_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4465306,53.3970936],[-2.4464197,53.3970661],[-2.4463172,53.3970406],[-2.445225,53.3967741],[-2.4430805,53.3962854],[-2.4429881,53.3962009],[-2.4428957,53.3961348],[-2.4423041,53.3959841],[-2.4409608,53.3957416],[-2.4408252,53.3956387],[-2.439944,53.3955322],[-2.4392847,53.3954109],[-2.4387671,53.395297],[-2.4371711,53.3952052],[-2.4362468,53.395128],[-2.4360866,53.3950619],[-2.4359941,53.3950619],[-2.4347987,53.3950067],[-2.4340223,53.3949884],[-2.4335355,53.3949002],[-2.4327261,53.3946848]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.451053,53.3913043],[-2.4489524,53.3907471],[-2.4482915,53.3905826]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4482203,53.3905607],[-2.4481505,53.3905683]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4460861,53.3979127],[-2.4463144,53.3979427],[-2.4467062,53.398008],[-2.4471306,53.3980972],[-2.4471328,53.3981445],[-2.4471335,53.3982619]]]}}
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "WARRI_110_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5508668,53.33547],[-2.5507487,53.3357102],[-2.550917,53.3357311],[-2.5513638,53.3357556],[-2.5518037,53.3356058],[-2.5522671,53.3354653],[-2.5523251,53.3354146],[-2.5523457,53.3352435],[-2.5523714,53.3349943]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5508668,53.33547],[-2.5506736,53.3354348],[-2.5504502,53.3353739],[-2.5487836,53.3349054],[-2.547368,53.3345973],[-2.5472285,53.3345488],[-2.5470362,53.334482],[-2.546051,53.3337764],[-2.5455215,53.3334642],[-2.5454312,53.3334466],[-2.5448015,53.3331911],[-2.5442157,53.332972],[-2.543691,53.332751],[-2.5430205,53.3324784]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5504502,53.3353739],[-2.5505287,53.3349191],[-2.5507542,53.3349305],[-2.5512246,53.3349544]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5454466,53.3408766],[-2.5454995,53.3408975],[-2.5455531,53.3409113],[-2.5456744,53.3409245],[-2.5457515,53.340912],[-2.5458005,53.3408883]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5458005,53.3408883],[-2.5458262,53.3408485],[-2.5458192,53.3408137],[-2.5457772,53.3407593],[-2.5456849,53.3406715],[-2.5456323,53.3406123]]]}}
+]
+}

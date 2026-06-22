@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "WARRI_96_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.473988,53.381903],[-2.4750376,53.3819639],[-2.4752096,53.382027]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4682575,53.3874623],[-2.4683558,53.3874485],[-2.4686201,53.3873979],[-2.4707238,53.3869642],[-2.4727516,53.3865928],[-2.4738158,53.3863653]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4737831,53.3859171],[-2.4735709,53.3860308],[-2.473409,53.3860999],[-2.4731683,53.3861669],[-2.4728689,53.3862506]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4728689,53.3862506],[-2.4720637,53.3864647],[-2.4716445,53.3865898],[-2.471388,53.3866842],[-2.471218,53.3867557],[-2.4710806,53.3868058],[-2.4709973,53.386836],[-2.4708671,53.3868669],[-2.4706972,53.3868931],[-2.4691403,53.3872212],[-2.4683214,53.3873849],[-2.4682427,53.3874168]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Trans Pennine Trail","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4547001,53.3896406],[-2.4547984,53.3896297],[-2.4550292,53.3895988],[-2.4556646,53.3895488],[-2.4573347,53.3894234],[-2.4605292,53.3891578],[-2.461181,53.3890789],[-2.4620205,53.3889602],[-2.4628975,53.3888131],[-2.4636639,53.3886828],[-2.4660705,53.388079],[-2.4678386,53.3876186],[-2.4681436,53.3875535],[-2.4682646,53.387527]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4627442,53.3877737],[-2.4627915,53.3876875],[-2.4627627,53.3876096],[-2.462671,53.3875123],[-2.4625652,53.3873933]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Reddish Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4739639,53.3864636],[-2.4710804,53.3870054],[-2.4709759,53.387013]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4679092,53.3835884],[-2.4678764,53.3834468],[-2.4678729,53.3833826],[-2.4678978,53.3833172],[-2.4679005,53.3831828],[-2.467813,53.3830755],[-2.4677192,53.3830029],[-2.4676162,53.3829716],[-2.4675052,53.3829561],[-2.4673895,53.382974],[-2.4672724,53.3830317],[-2.4671602,53.3830372],[-2.4670073,53.3830452],[-2.4668577,53.3830923],[-2.4667855,53.3831403],[-2.4667418,53.3831956],[-2.4667847,53.383338],[-2.4668384,53.3835123],[-2.4669242,53.3835763]]]}}
+]
+}

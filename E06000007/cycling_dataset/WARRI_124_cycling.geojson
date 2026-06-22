@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "WARRI_124_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5675724,53.4361547],[-2.5676452,53.4361981],[-2.5678416,53.4362456],[-2.5688887,53.4365012],[-2.5690707,53.4365457],[-2.5695947,53.4366739]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5691838,53.4361121],[-2.5691701,53.4360601],[-2.5691419,53.4359689],[-2.5685991,53.4352572],[-2.5677386,53.4342821],[-2.5655741,53.4316249],[-2.5642367,53.4309583],[-2.5637776,53.4306786],[-2.5633662,53.4305707],[-2.5630436,53.4303847],[-2.5628542,53.430331],[-2.5626669,53.4303277],[-2.5621492,53.4304366],[-2.5619651,53.4304297],[-2.561725,53.4303989]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5582839,53.4342737],[-2.5571681,53.4343811],[-2.5563699,53.4344322],[-2.5559808,53.4344522],[-2.5558016,53.4344242]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5608213,53.4305696],[-2.5609494,53.430442],[-2.5611412,53.4302945],[-2.5613101,53.430177],[-2.5613894,53.4301218],[-2.5615968,53.4300139],[-2.5619078,53.4298865],[-2.5619946,53.4298492],[-2.5620246,53.4298283],[-2.5620408,53.4298075],[-2.5620435,53.4297855],[-2.5620365,53.4297608],[-2.5620103,53.429731],[-2.5619703,53.4297032],[-2.5611199,53.4292731],[-2.5601631,53.428768],[-2.5599764,53.4287178]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5547193,53.4352901],[-2.5547296,53.4351109],[-2.5546085,53.4351068],[-2.5546424,53.4347551],[-2.5552174,53.4347747],[-2.5551836,53.4351265],[-2.5547296,53.4351109]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5608213,53.4305696],[-2.5609664,53.4305374],[-2.561725,53.4303989]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Deacons Close","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5526313,53.4392477],[-2.5526588,53.4392611],[-2.5527012,53.4392817],[-2.5527391,53.4393002]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5523173,53.4398999],[-2.5522638,53.4398917],[-2.5521067,53.4398676],[-2.552052,53.439843]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5559079,53.4375101],[-2.5559694,53.4375172],[-2.5560166,53.4375582]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.561725,53.4303989],[-2.561585,53.4303588],[-2.5613886,53.4302386],[-2.5613101,53.430177]]]}}
+]
+}
