@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CUMBE_38_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9949519,54.8901151],[-2.9950572,54.891273]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0047096,54.8889618],[-3.00366,54.8899257],[-3.0036046,54.8900887],[-3.0033705,54.8916006]]]}}
+]
+}

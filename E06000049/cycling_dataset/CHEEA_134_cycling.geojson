@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "CHEEA_134_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4348384,53.1859515],[-2.4351659,53.1858229],[-2.4354446,53.1857077],[-2.436247,53.1853185],[-2.4363579,53.1852557],[-2.4371737,53.1846292],[-2.4380863,53.1843254],[-2.4382034,53.1842607],[-2.4382233,53.1841645],[-2.4381945,53.1840721],[-2.4380884,53.1839202],[-2.4376566,53.1833465],[-2.4373069,53.1829775],[-2.4366307,53.1824687],[-2.4362879,53.1822053],[-2.435586,53.1816104]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4355544,53.1678667],[-2.4354418,53.1678263],[-2.4353224,53.1676687]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4352681,53.1675835],[-2.4346653,53.1673037],[-2.4340685,53.1670062],[-2.4331377,53.1664917],[-2.4322607,53.1660969],[-2.4313004,53.1657231],[-2.4309812,53.1656121],[-2.4305373,53.1654023]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4412689,53.1725436],[-2.4409752,53.1722824],[-2.4409215,53.1722559],[-2.4408808,53.1722289]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4304003,53.1768446],[-2.430745,53.1770606],[-2.4310191,53.1772191],[-2.4311475,53.177284],[-2.4315083,53.1774815],[-2.4319965,53.1777797]]]}}
+]
+}

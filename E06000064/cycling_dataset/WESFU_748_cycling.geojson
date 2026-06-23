@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WESFU_748_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5753225,54.6466947],[-2.5757426,54.6465516],[-2.5764711,54.646122],[-2.5766392,54.645968],[-2.576714,54.6458626],[-2.5768214,54.6456977],[-2.5768296,54.645661],[-2.5768727,54.645468],[-2.5768634,54.6451059],[-2.5768727,54.6446141],[-2.57684,54.6442277],[-2.5768167,54.6440385],[-2.5769054,54.6439683],[-2.5771202,54.6439169],[-2.5781009,54.6437602],[-2.5784092,54.6437926],[-2.578652,54.6438034],[-2.5792544,54.6435954],[-2.5797728,54.6435035],[-2.5802632,54.6434359]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5768296,54.645661],[-2.5772954,54.6456909],[-2.5777246,54.6456505],[-2.5791569,54.6453742]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5770239,54.6507407],[-2.5770027,54.6505982]]]}}
+]
+}

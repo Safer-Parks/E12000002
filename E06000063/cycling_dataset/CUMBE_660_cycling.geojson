@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CUMBE_660_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5408713,54.5379775],[-3.5410937,54.537784],[-3.5420601,54.5373143],[-3.5421223,54.5372515],[-3.5421765,54.5371698]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5423555,54.5330432],[-3.5427745,54.5329083],[-3.5428761,54.532867]]]}}
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CHEWE_204_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8016854,53.1726533],[-2.801714,53.1721126],[-2.801715,53.172094],[-2.801665,53.171825],[-2.801481,53.171574],[-2.801492,53.17134],[-2.802272,53.170652],[-2.803072,53.170242],[-2.804817,53.16917],[-2.805146,53.169167],[-2.8051796,53.1690799]]]}}
+]
+}

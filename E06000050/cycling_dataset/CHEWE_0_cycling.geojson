@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "CHEWE_0_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":"Wirral Way","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9854839,53.2895821],[-2.98484,53.2896174],[-2.9846899,53.289627],[-2.9836879,53.2896912],[-2.9825772,53.289744],[-2.9822011,53.2898019],[-2.9818056,53.2898668],[-2.9810041,53.2900487],[-2.9801034,53.2903257],[-2.9793086,53.2906502],[-2.9787386,53.2909399],[-2.9783896,53.2911578],[-2.9780601,53.2913896],[-2.9777227,53.2916654],[-2.9771528,53.2922788],[-2.9767255,53.2929794],[-2.9765715,53.2933712],[-2.9765092,53.2935879]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Wirral Way","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.977921,53.2974626],[-2.9780081,53.2974889],[-2.9782854,53.2974626],[-2.978297,53.2974848],[-2.9780301,53.2975364],[-2.9780567,53.2975891]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Wirral Way","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9765092,53.2935879],[-2.9766448,53.2940919],[-2.976765,53.2946018],[-2.9769489,53.295102],[-2.9772847,53.2959974],[-2.9776122,53.2967593],[-2.97777,53.2971089],[-2.977921,53.2974626]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9784107,53.2914089],[-2.9783896,53.2911578]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9784456,53.2929929],[-2.9785763,53.2930997]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9785763,53.2930997],[-2.9786779,53.2931949],[-2.9787518,53.293228],[-2.9788965,53.2932787]]]}}
+]
+}

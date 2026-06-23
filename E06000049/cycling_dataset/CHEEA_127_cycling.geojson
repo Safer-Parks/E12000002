@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "CHEEA_127_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Sunnyside","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3246365,53.0990463],[-2.3245269,53.0992469]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3351,53.0883377],[-2.3348532,53.0886102],[-2.3350472,53.0887301],[-2.3354011,53.0885233],[-2.3352394,53.0884235]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3319946,53.0929402],[-2.3320561,53.0929096],[-2.3327195,53.0926837]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3381791,53.095154],[-2.3382615,53.0957162],[-2.3383052,53.0958594],[-2.338462,53.096094]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Close Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3402607,53.1027286],[-2.3400749,53.1025997],[-2.3397484,53.1022584],[-2.3392768,53.1017624],[-2.339047,53.1016243],[-2.3386842,53.1014114],[-2.3383819,53.1012226],[-2.337878,53.1008813],[-2.3376964,53.1007372],[-2.3375293,53.1006046],[-2.3375156,53.1005937],[-2.3373041,53.1004646],[-2.3368875,53.1002455],[-2.3365483,53.1000682],[-2.3364848,53.1000371],[-2.3360953,53.099846],[-2.3353963,53.099585],[-2.3350786,53.0995331],[-2.3347371,53.0995093],[-2.3343009,53.0994268],[-2.3341389,53.0994201]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3218355,53.0906809],[-2.3217216,53.0905816],[-2.3211625,53.0900907],[-2.3210691,53.0899759]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Alsager Hall Bridge","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3210691,53.0899759],[-2.3209242,53.0897857]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3205743,53.089436],[-2.3205115,53.089316],[-2.320477,53.0892042],[-2.3204356,53.0884731],[-2.3203974,53.0883447],[-2.3203169,53.0882103],[-2.3202191,53.0881242],[-2.3163269,53.0867036],[-2.3160122,53.086628]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3218355,53.0906809],[-2.3223157,53.0911236]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3223157,53.0911236],[-2.3223712,53.0911747]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3223712,53.0911747],[-2.3239278,53.0925873]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3277314,53.0946236],[-2.3277515,53.0944972],[-2.3278259,53.0943897]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3132074,53.0926709],[-2.3132696,53.0926815],[-2.3137679,53.0927639],[-2.3141161,53.0928046],[-2.3144303,53.0928361],[-2.3147801,53.0928314],[-2.3148547,53.092825],[-2.3149202,53.0928194],[-2.3150188,53.0927824],[-2.3151236,53.0927861],[-2.3152431,53.0927843],[-2.315315,53.0927737],[-2.3153869,53.0927372]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3209242,53.0897857],[-2.3205743,53.089436]]]}}
+]
+}

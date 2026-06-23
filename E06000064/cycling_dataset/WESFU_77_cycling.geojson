@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WESFU_77_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.1878876,54.1211537],[-3.1879908,54.1211564],[-3.1884084,54.1211763]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.1807649,54.1164516],[-3.1807393,54.1164129],[-3.1806282,54.1162448],[-3.180555,54.1161066],[-3.1805265,54.1159732],[-3.1805184,54.1157944],[-3.1805468,54.1155538],[-3.1805549,54.1154858],[-3.1805656,54.1153966]]]}}
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CUMBE_855_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9692601,54.8863745],[-2.9692161,54.886309]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9799,54.8891474],[-2.9798358,54.889201],[-2.9797687,54.889249],[-2.9796996,54.8892957],[-2.9796549,54.8893067]]]}}
+]
+}

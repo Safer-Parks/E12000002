@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WESFU_493_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.874094,54.7875604],[-2.8741057,54.7836241],[-2.8736765,54.7826837]]]}}
+]
+}

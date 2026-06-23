@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "CHEWE_192_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9230878,53.1544658],[-2.9231254,53.1545943],[-2.9232095,53.1547782],[-2.923356,53.1548646],[-2.9234091,53.1549406],[-2.9233715,53.155021],[-2.9232487,53.1550704],[-2.9230555,53.1550736],[-2.9229448,53.1550565],[-2.9225781,53.1549997],[-2.9224424,53.154989],[-2.9222783,53.1550172],[-2.9222158,53.1550717],[-2.9221532,53.1551562],[-2.9221242,53.1552617],[-2.9221874,53.155382],[-2.9223704,53.1554627],[-2.9231176,53.1556206]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9229448,53.1550565],[-2.9228765,53.1551946]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9225781,53.1549997],[-2.9226004,53.1547682]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9222783,53.1550172],[-2.9221687,53.1549642],[-2.9220839,53.1549328],[-2.9220116,53.1549238],[-2.9218419,53.1548295]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9221242,53.1552617],[-2.922054,53.1552589],[-2.9218818,53.1552784]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9248019,53.1506034],[-2.9234387,53.1509517],[-2.9229317,53.1510443],[-2.9224466,53.1511025],[-2.9203655,53.1517212],[-2.9203302,53.1517741],[-2.9203346,53.151827],[-2.9205727,53.1521549],[-2.9205771,53.1522606],[-2.9205286,53.152414],[-2.9203831,53.1525065],[-2.920026,53.1525991],[-2.9190647,53.1529058],[-2.9180477,53.1533005],[-2.9173091,53.1535901],[-2.9165564,53.1537332]]]}}
+]
+}

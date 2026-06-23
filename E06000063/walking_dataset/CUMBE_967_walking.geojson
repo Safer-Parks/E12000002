@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "CUMBE_967_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8149948,55.0142642],[-2.8151124,55.0144281],[-2.8151938,55.0145049],[-2.8152445,55.0146211],[-2.8153993,55.015241],[-2.8155654,55.0156889],[-2.8156356,55.0158073]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8049521,55.0231791],[-2.8047242,55.0225213],[-2.8046278,55.0224619]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8046944,55.0221026],[-2.8048644,55.0221752],[-2.804935,55.0222063]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8047307,55.0220571],[-2.804898,55.0221469],[-2.8049644,55.0221819]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8087319,55.0194002],[-2.8088137,55.0194426],[-2.8088856,55.0194875],[-2.8089782,55.019559],[-2.8090913,55.0196209],[-2.8091864,55.0196651],[-2.8092326,55.0196746],[-2.8092673,55.0196724],[-2.8093059,55.0196651],[-2.8095398,55.0195324],[-2.8095449,55.0195125],[-2.8095449,55.019486],[-2.8095462,55.019461],[-2.8095262,55.0194195],[-2.8093837,55.0193209]]]}}
+]
+}

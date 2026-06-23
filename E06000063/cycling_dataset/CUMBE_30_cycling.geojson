@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CUMBE_30_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9902459,54.8967319],[-2.990295,54.8966887],[-2.9907116,54.8960922],[-2.9909959,54.8954536],[-2.9910531,54.8952405],[-2.9910543,54.8952128],[-2.9910748,54.894735],[-2.991004,54.893725],[-2.9909901,54.8935905],[-2.9909339,54.8920266],[-2.991003,54.8920256],[-2.9910681,54.8920216],[-2.9910499,54.8915799],[-2.990958,54.8906086],[-2.9908915,54.8899841],[-2.990781,54.8879938],[-2.9906684,54.8877593],[-2.9905235,54.8876266],[-2.9898143,54.887184],[-2.9897699,54.8871607],[-2.9897343,54.8871811]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9949519,54.8901151],[-2.9950572,54.891273]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0047096,54.8889618],[-3.00366,54.8899257],[-3.0036046,54.8900887],[-3.0033705,54.8916006]]]}}
+]
+}

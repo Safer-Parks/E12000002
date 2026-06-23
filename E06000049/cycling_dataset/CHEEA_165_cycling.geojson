@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CHEEA_165_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3965787,53.1007174],[-2.3966812,53.1010922]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Pool Meadows Road","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.40168,53.0990061],[-2.4024707,53.0989787],[-2.4037274,53.0990209],[-2.4051212,53.0991219],[-2.4053689,53.0991215],[-2.4056863,53.0991209]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4038868,53.1057336],[-2.4039781,53.1057661],[-2.4040337,53.1057923],[-2.4040762,53.1058204],[-2.4041176,53.1058505],[-2.4041492,53.1058858],[-2.4041611,53.1059139],[-2.4041557,53.1059486],[-2.4041372,53.1059832],[-2.4040969,53.1060166],[-2.4040424,53.1060558],[-2.4039553,53.1061232]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4038868,53.1057336],[-2.4036121,53.1056477],[-2.4034836,53.1056176],[-2.4033452,53.1055987],[-2.4032156,53.105581],[-2.4031404,53.1055771],[-2.4030729,53.1055777]]]}}
+]
+}

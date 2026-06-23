@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CUMBE_1056_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.937787,54.8251378],[-2.9408654,54.8259197],[-2.9411735,54.8262108],[-2.9414693,54.8262037],[-2.9427325,54.8255712]]]}}
+]
+}

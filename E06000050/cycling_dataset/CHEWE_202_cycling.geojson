@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "CHEWE_202_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Blackboards Lane FP47","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9616009,53.2899612],[-2.9606376,53.2901298],[-2.9590672,53.2905016],[-2.9572647,53.2912327],[-2.9556473,53.2916944]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.945997,53.2916009],[-2.9459626,53.2914956],[-2.9461723,53.2914409],[-2.9464127,53.2913892],[-2.9465522,53.2913027],[-2.9473977,53.2910846],[-2.947558,53.2910285],[-2.9478746,53.2909035],[-2.9480409,53.2909054],[-2.94831,53.2910256],[-2.9485186,53.2910645],[-2.9487373,53.2910526],[-2.9488257,53.2910514],[-2.9490005,53.2910072],[-2.9497388,53.2907263]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9470921,53.2856904],[-2.9469217,53.2856724]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9469217,53.2856724],[-2.9468098,53.2855414]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9468098,53.2855414],[-2.9469073,53.2854912]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9549722,53.2875424],[-2.9546759,53.287431],[-2.9545847,53.2874246],[-2.9542454,53.2875272],[-2.9541756,53.2875248],[-2.9538913,53.2872065],[-2.9536867,53.2872568]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9508497,53.2935805],[-2.9530924,53.2932173]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9532027,53.2935481],[-2.9520929,53.2937256]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9484833,53.2905744],[-2.9482348,53.2904285],[-2.9482217,53.2903429],[-2.9479718,53.2902162],[-2.94792,53.2901606],[-2.9479002,53.2901393],[-2.947735,53.2900292],[-2.946921,53.2902756]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9484062,53.2908547],[-2.9480734,53.2906807]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.94792,53.2901606],[-2.9479069,53.290075],[-2.9479347,53.2899807],[-2.9479303,53.2899352],[-2.9479142,53.2898942]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9478367,53.2899981],[-2.947735,53.2900292]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Chester Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9436372,53.2824105],[-2.9438707,53.2826263],[-2.944563,53.2832661],[-2.9449082,53.2835791],[-2.9451896,53.2838665],[-2.9454205,53.2841113],[-2.9456515,53.2843234],[-2.9457975,53.2844564]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Chester Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.952718,53.2923446],[-2.9526998,53.2923012],[-2.9525933,53.2920208],[-2.9525266,53.2918149],[-2.9523131,53.2913284],[-2.9522536,53.2912065],[-2.9520185,53.2907127],[-2.9519778,53.2906659],[-2.9517795,53.2904379],[-2.9516048,53.290264],[-2.9512711,53.2899642],[-2.9510774,53.2897838],[-2.9508396,53.2895888],[-2.9502813,53.2890672],[-2.9498707,53.2886253],[-2.9494266,53.2882232],[-2.9491657,53.288008],[-2.9489328,53.2878357]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Chester Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9489328,53.2878357],[-2.9485895,53.2875817],[-2.948294,53.2873744]]]}}
+]
+}

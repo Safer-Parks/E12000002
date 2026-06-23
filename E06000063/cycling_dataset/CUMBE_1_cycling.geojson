@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CUMBE_1_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9893701,54.8671766],[-2.9899864,54.867447]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9915435,54.8689234],[-2.9908263,54.8694232],[-2.9905763,54.8695898],[-2.9892866,54.8701691],[-2.9890958,54.8701918],[-2.988951,54.8701351],[-2.9874503,54.8689607],[-2.9872593,54.8688144]]]}}
+]
+}

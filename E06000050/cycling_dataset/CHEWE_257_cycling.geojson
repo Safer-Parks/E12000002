@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "CHEWE_257_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":"Rake End Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0358386,53.2883995],[-3.0368451,53.2887512],[-3.0390294,53.2898355],[-3.0394287,53.2900582],[-3.0396042,53.2901831],[-3.0398496,53.2902897],[-3.0405231,53.2905039],[-3.0411105,53.2906915],[-3.0421084,53.2910683]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0480156,53.2896905],[-3.0481121,53.2898733]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Wirral Way","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0434754,53.2899734],[-3.0452162,53.2900359],[-3.0459242,53.2900023],[-3.0470537,53.289911],[-3.0481596,53.2897599],[-3.0493754,53.28952],[-3.0526463,53.2886172],[-3.0540582,53.2882655],[-3.0547333,53.2881759],[-3.0549392,53.2881486]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0433587,53.2903316],[-3.0434086,53.2903513],[-3.0434541,53.2903718],[-3.0434592,53.2903993],[-3.0434395,53.2904154],[-3.0433683,53.2905047],[-3.0434074,53.290577],[-3.0434851,53.2906416],[-3.0436574,53.2907547],[-3.0437318,53.2908153],[-3.0437757,53.2908598],[-3.0437892,53.2909042],[-3.0437757,53.2909547],[-3.0437284,53.2910133]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0536139,53.2971364],[-3.0532589,53.2973271],[-3.0532988,53.2973537],[-3.0538905,53.2977488],[-3.0526359,53.2984096]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0552151,53.2928991],[-3.0556389,53.2926938],[-3.0557811,53.2926409],[-3.0560305,53.2925832],[-3.0563141,53.2925512]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0444053,53.2963437],[-3.045154,53.296207],[-3.0462194,53.2960112],[-3.0474634,53.2957391],[-3.0482234,53.2955654],[-3.0495395,53.2952835],[-3.0506539,53.294981],[-3.0532551,53.2938276],[-3.0546164,53.2931782],[-3.0552151,53.2928991]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0476492,53.2891754],[-3.0476293,53.2892288],[-3.0477259,53.2893827],[-3.0478385,53.2896328],[-3.0480156,53.2896905]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0476492,53.2891754],[-3.0479985,53.2891951]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Wirral Way","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.035545,53.2881615],[-3.0356701,53.2881905],[-3.0357585,53.2882119],[-3.0397234,53.2892959],[-3.0401767,53.2893571],[-3.0403172,53.2893904],[-3.0407244,53.2895085],[-3.041247,53.2896471],[-3.0413975,53.2897265],[-3.0414524,53.2897489],[-3.041545,53.289773],[-3.0418401,53.2898027],[-3.042014,53.2898304],[-3.0422852,53.2898573],[-3.043116,53.2899397],[-3.0434754,53.2899734]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0521737,53.297955],[-3.0526293,53.2977109],[-3.0532988,53.2973537]]]}}
+]
+}

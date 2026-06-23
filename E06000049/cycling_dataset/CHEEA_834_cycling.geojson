@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "CHEEA_834_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3441574,53.3928842],[-2.3442157,53.3929313],[-2.3441174,53.393148],[-2.3440475,53.3931654]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3472424,53.3859442],[-2.3473929,53.3859596],[-2.3473817,53.3859962]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3461512,53.3846413],[-2.3459723,53.3846279]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3450049,53.3877905],[-2.3449097,53.3877786]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3449097,53.3877786],[-2.3444953,53.3876922]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3397367,53.3861894],[-2.3394132,53.3861597]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3430626,53.3886576],[-2.3422402,53.3883689],[-2.3423661,53.3881175]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Lloyd Street","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3479047,53.3843448],[-2.3477261,53.3843305],[-2.3476043,53.3843182],[-2.3475209,53.3843068],[-2.3472773,53.3842686],[-2.3470075,53.3842333],[-2.3466239,53.3841833],[-2.3464703,53.3841784]]]}}
+]
+}

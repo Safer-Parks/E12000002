@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "WESFU_67_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2626502,54.1026586],[-3.2627217,54.1025677],[-3.2627707,54.1024856],[-3.2628092,54.1022097],[-3.2627427,54.1019167]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2462686,54.1073762],[-3.2463925,54.107366],[-3.246505,54.1073567]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2465204,54.1073565],[-3.2465171,54.1073777],[-3.2465255,54.1074553],[-3.246536,54.107523],[-3.2465529,54.1075252],[-3.2466819,54.1075485]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.246505,54.1073567],[-3.2465204,54.1073565]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2466249,54.1073419],[-3.2465584,54.1073377],[-3.246535,54.1073447],[-3.2465204,54.1073565]]]}}
+]
+}

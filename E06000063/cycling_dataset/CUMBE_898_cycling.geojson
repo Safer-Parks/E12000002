@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CUMBE_898_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7712242,54.9204949],[-2.7714574,54.9207718],[-2.7722153,54.9214623],[-2.7731273,54.9222733],[-2.7732325,54.9223728]]]}}
+]
+}

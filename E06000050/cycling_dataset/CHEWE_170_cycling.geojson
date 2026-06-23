@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "CHEWE_170_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8028907,53.1646718],[-2.8031875,53.164751],[-2.8034443,53.1647893],[-2.8038072,53.1648182],[-2.8040782,53.1648962],[-2.8044575,53.1650706],[-2.8047952,53.1651753],[-2.8053013,53.1652715],[-2.8055355,53.1652902],[-2.8057062,53.1652791]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8095077,53.1637961],[-2.8102201,53.1634027],[-2.8109587,53.1629371],[-2.8116417,53.1627366],[-2.81229,53.1624967],[-2.8132162,53.1618476],[-2.813683,53.1615855]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8095077,53.1637961],[-2.8090174,53.1640462],[-2.8084511,53.1643692],[-2.8081441,53.1644978],[-2.8078415,53.1645867],[-2.807551,53.1646419],[-2.8073195,53.1646744],[-2.8070511,53.1646819],[-2.8068108,53.1646761]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8094537,53.1654414],[-2.8096303,53.1654032]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8094537,53.1654414],[-2.8095191,53.1653826]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8096303,53.1654032],[-2.810933,53.1650241],[-2.811059,53.1649631],[-2.8113451,53.1647413],[-2.8119168,53.1640662],[-2.8121811,53.1637152],[-2.812299,53.163742],[-2.8132137,53.164026]]]}}
+]
+}
