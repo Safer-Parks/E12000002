@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "WESLA_302_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7059125,53.6214445],[-2.7056596,53.6208894]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7063152,53.6213664],[-2.7059125,53.6214445],[-2.7053216,53.6215592],[-2.7049676,53.6215448]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7112107,53.6163032],[-2.7117321,53.615445]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.712036,53.605688],[-2.711944,53.6059148],[-2.7120289,53.6061878],[-2.7122483,53.6067212],[-2.7124253,53.6070319],[-2.7127297,53.6076241],[-2.712673,53.6077417],[-2.712581,53.6078593],[-2.7126447,53.6079769],[-2.7132251,53.60922],[-2.7132959,53.6093249],[-2.7132676,53.6093963]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7064823,53.6115558],[-2.7066043,53.6114493],[-2.7066851,53.6113946],[-2.7068889,53.6113033],[-2.7070505,53.6112349],[-2.7071351,53.6111618],[-2.7071428,53.6110637],[-2.7070928,53.6109428],[-2.7070274,53.6108424],[-2.7069274,53.6107602],[-2.7067582,53.6106279],[-2.7066966,53.6105366],[-2.7066658,53.6104522],[-2.706812,53.609916]]]}}
+]
+}

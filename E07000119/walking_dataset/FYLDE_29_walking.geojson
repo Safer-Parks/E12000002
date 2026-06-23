@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "FYLDE_29_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9183484,53.7760889],[-2.9190012,53.7761617],[-2.9192453,53.7761358],[-2.9193143,53.7760993]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9124254,53.767256],[-2.9147675,53.7667309],[-2.9153898,53.7666739]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9102625,53.7737331],[-2.9106239,53.7737122],[-2.91063,53.7736769],[-2.9105946,53.7734577],[-2.9106325,53.7733932]]]}}
+]
+}

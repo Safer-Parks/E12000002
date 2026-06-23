@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "KNOWS_33_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.868169,53.3912811],[-2.8677997,53.3913858]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8665586,53.3901015],[-2.8659308,53.3896605],[-2.8651783,53.3891005],[-2.8645856,53.3886518],[-2.8636965,53.3879686],[-2.8628338,53.3872524]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8754824,53.3964928],[-2.8744858,53.3957872],[-2.8744848,53.3956752],[-2.8732197,53.3947379],[-2.8730159,53.3946133],[-2.8727906,53.3945941],[-2.8723096,53.3942426]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8692906,53.3920732],[-2.868169,53.3912811],[-2.8668562,53.3903153]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8668562,53.3903153],[-2.8665586,53.3901015]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8695353,53.3922492],[-2.8692906,53.3920732]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8723096,53.3942426],[-2.8721042,53.3941025]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8721042,53.3941025],[-2.871639,53.3937915],[-2.8701726,53.3927275],[-2.870113,53.3926451],[-2.8695353,53.3922492]]]}}
+]
+}

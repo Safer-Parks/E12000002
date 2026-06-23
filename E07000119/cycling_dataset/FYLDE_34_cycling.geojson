@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "FYLDE_34_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0242985,53.7572382],[-3.0243618,53.7567933]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0279054,53.7609466],[-3.0279722,53.7609582],[-3.0282017,53.7610038],[-3.0283849,53.7610698],[-3.0287659,53.7612263],[-3.0288319,53.7612511],[-3.0290333,53.7613069],[-3.0290333,53.7613523],[-3.0290545,53.7614068],[-3.0290986,53.7614477],[-3.0291563,53.7614761],[-3.0292388,53.7614852],[-3.0293118,53.7614863],[-3.0293604,53.7614932],[-3.0294161,53.7615085],[-3.0294674,53.7615022],[-3.0295212,53.7614852],[-3.0295788,53.7614795],[-3.0296902,53.7614818],[-3.029792,53.7615011],[-3.0299091,53.7615317],[-3.0300682,53.7615984],[-3.0301373,53.7616603]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0339066,53.7543775],[-3.0336247,53.7543898],[-3.03338,53.7543106],[-3.0332807,53.7544488],[-3.033286,53.7545598],[-3.0334205,53.7546515],[-3.0336508,53.754739],[-3.0337259,53.7548135],[-3.0337447,53.7548944],[-3.0338528,53.75496],[-3.033924,53.7550091],[-3.0340319,53.7551227],[-3.0340974,53.7551562]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0204463,53.7570181],[-3.0204952,53.7568527],[-3.0206263,53.7567039],[-3.0207702,53.7565383],[-3.0208711,53.7564285]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0233865,53.7557123],[-3.0232829,53.7558299],[-3.0231549,53.7559825],[-3.023057,53.7561291],[-3.022989,53.756258],[-3.022991,53.7563951],[-3.022967,53.7564838],[-3.022321,53.7562769],[-3.022111,53.7565098],[-3.022841,53.7567238],[-3.022931,53.7568669],[-3.023077,53.7570052],[-3.0232308,53.7571078]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.022111,53.7565098],[-3.022055,53.7565642],[-3.0215723,53.7565864]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.022967,53.7564838],[-3.022987,53.75655],[-3.022963,53.7566103],[-3.022841,53.7567238]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0290333,53.7613069],[-3.0290494,53.7612839],[-3.0290711,53.7612743],[-3.0291074,53.7612738],[-3.0291336,53.7612856]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Clifton Drive North","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0429954,53.7596218],[-3.0424407,53.7590383],[-3.0419768,53.7585241],[-3.0415189,53.7580722]]]}}
+]
+}

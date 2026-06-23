@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "RIBVA_40_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3321881,53.817113],[-2.3319597,53.8171315],[-2.3317943,53.8171083],[-2.3302034,53.8166805],[-2.330101,53.8166573],[-2.3299435,53.8166759],[-2.3295259,53.8167511]]]}}
+]
+}

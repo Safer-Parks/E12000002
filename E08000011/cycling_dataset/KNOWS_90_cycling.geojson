@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "KNOWS_90_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8956197,53.4773349],[-2.8954365,53.4771155],[-2.8954571,53.4770879],[-2.8953774,53.4770702],[-2.8952563,53.4770434],[-2.8952971,53.4769782],[-2.895207,53.4769565],[-2.895013,53.4769094]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9134274,53.4828049],[-2.9133582,53.482738],[-2.9133081,53.4825518],[-2.9132704,53.4824425],[-2.9132072,53.4823398],[-2.9132238,53.4823214],[-2.9128362,53.4821409]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8961628,53.4757379],[-2.8962509,53.4757785],[-2.8963146,53.475805],[-2.8962703,53.4759224],[-2.8963586,53.4759554],[-2.896455,53.4759938],[-2.8964232,53.4760663],[-2.8964488,53.4761276],[-2.8966257,53.4761993],[-2.8966591,53.4762718]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9027529,53.4842522],[-2.9023983,53.4841865]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9119686,53.481984],[-2.911666,53.481992],[-2.9106622,53.4825397],[-2.9106088,53.4827172]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9126078,53.4821446],[-2.9125102,53.4821901],[-2.9122836,53.4822103],[-2.9120886,53.4822511],[-2.9118409,53.4823899],[-2.9116993,53.4825243],[-2.9113764,53.4827237],[-2.9111919,53.4827994],[-2.9110105,53.4828353],[-2.9108079,53.4828581],[-2.9106629,53.4828342]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Westfield Walk","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9067853,53.4787891],[-2.9070419,53.4788153],[-2.9075873,53.4791818],[-2.9076776,53.4792083]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9096543,53.4805848],[-2.9088967,53.4809739],[-2.9088568,53.4810095]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9106088,53.4827172],[-2.9106629,53.4828342]]]}}
+]
+}

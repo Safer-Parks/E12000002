@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "STOC5_83_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":"Ladybrook Cycleway","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.18892,53.3844064],[-2.1886449,53.3843503],[-2.1884815,53.3843181],[-2.1883276,53.384279],[-2.1880837,53.3842121],[-2.1878598,53.3841189],[-2.1878488,53.3841162],[-2.1875313,53.3840379],[-2.1873578,53.3839105],[-2.1871939,53.383797],[-2.1870634,53.3837228],[-2.1867772,53.3836199],[-2.1866055,53.383558],[-2.1863308,53.3834301],[-2.1861112,53.3833436],[-2.1859842,53.3833238],[-2.1858733,53.3833109],[-2.1857117,53.3833122],[-2.1855999,53.3833117],[-2.1854697,53.3832776],[-2.1853229,53.38322],[-2.1851183,53.38315],[-2.184867,53.3830746],[-2.1846476,53.3830169],[-2.1844635,53.3829713],[-2.1841386,53.382913],[-2.1839057,53.3828373],[-2.183746,53.3827521],[-2.1835486,53.3826845],[-2.1828992,53.3825119],[-2.1825521,53.3824561],[-2.1824605,53.3824232],[-2.1823672,53.3824003],[-2.1823945,53.3823546]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1876636,53.3837643],[-2.1874688,53.3838605]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1823672,53.3824003],[-2.1823893,53.3824509],[-2.1824945,53.3825013],[-2.1827379,53.3826029],[-2.1829112,53.3827118],[-2.1829696,53.3827782],[-2.183168,53.3829091]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1876636,53.3837643],[-2.1877339,53.3837341],[-2.1879262,53.3837458],[-2.1880365,53.3837619],[-2.1893332,53.3840982],[-2.1894295,53.3841082],[-2.1895244,53.3841052],[-2.1897286,53.3840629],[-2.1900996,53.3839716],[-2.1902338,53.3839045]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.183168,53.3829091],[-2.1837352,53.3832523],[-2.1841309,53.3834787],[-2.1842757,53.3835779],[-2.1846064,53.3836742]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1845605,53.3828683],[-2.1845743,53.3829461],[-2.1846476,53.3830169]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.188371,53.376319],[-2.1883295,53.3763032],[-2.1880841,53.376243],[-2.1878766,53.3761902]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1837468,53.3780378],[-2.1837268,53.3785858],[-2.1838224,53.3786886],[-2.1839377,53.3788246],[-2.1840424,53.3788872]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Thornfield Grove","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1950059,53.3760444],[-2.1949361,53.3759836]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1850339,53.3839795],[-2.185236,53.3840873],[-2.1853194,53.3841171],[-2.185459,53.384155],[-2.1857685,53.3842352],[-2.1860312,53.3842961]]]}}
+]
+}

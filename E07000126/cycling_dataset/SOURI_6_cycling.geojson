@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "SOURI_6_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6951354,53.6894129],[-2.695202,53.6894108],[-2.6952397,53.6894097],[-2.695362,53.6894059]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6917829,53.6970855],[-2.6920534,53.6971703],[-2.6922246,53.6972225],[-2.6924325,53.6972039],[-2.6929667,53.6971435],[-2.6933006,53.6971096],[-2.6939322,53.6970552],[-2.6943248,53.6970359],[-2.6945749,53.6970134]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6945749,53.6970134],[-2.6946761,53.6970031]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6946761,53.6970031],[-2.6950325,53.696964],[-2.6956397,53.6969089],[-2.6958348,53.6969228],[-2.6961215,53.6967143]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6943248,53.6970359],[-2.6944528,53.6970614],[-2.6945751,53.697085],[-2.6947589,53.6970971],[-2.6947686,53.6973117]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Briarwood Close","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7134153,53.6912078],[-2.7137772,53.6912957]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6977879,53.6902537],[-2.6977997,53.6903383]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7042956,53.6922269],[-2.7042303,53.6922861],[-2.7041468,53.6923652],[-2.7041816,53.6931029],[-2.7041166,53.6932629],[-2.7040543,53.6936081],[-2.7041012,53.693655]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7040489,53.6931063],[-2.7039738,53.6932456],[-2.703776,53.6936324]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7040195,53.6923027],[-2.7041468,53.6923652]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Golden Hill Lane","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7110276,53.69859],[-2.7098442,53.6984922],[-2.7096377,53.6984748],[-2.7085611,53.6984045],[-2.7079828,53.6983914],[-2.7071298,53.6983759],[-2.7063892,53.6983619],[-2.7062954,53.6983601],[-2.7054362,53.6983505],[-2.7048894,53.6983539],[-2.7042921,53.6983576],[-2.7031712,53.698339]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Golden Hill Lane","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7015819,53.698307],[-2.7013236,53.6982996],[-2.7005221,53.6982594]]]}}
+]
+}

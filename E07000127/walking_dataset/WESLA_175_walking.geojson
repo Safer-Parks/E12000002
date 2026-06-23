@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WESLA_175_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8866476,53.7018193],[-2.8830801,53.7032399],[-2.8809143,53.7041237],[-2.8807346,53.70412],[-2.8806213,53.7040996],[-2.8805707,53.7040781],[-2.8804655,53.7039511]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8805707,53.7040781],[-2.8804593,53.7042186],[-2.8804178,53.704257],[-2.8801219,53.7043676],[-2.8782614,53.7051125],[-2.8768601,53.7056747],[-2.8747193,53.7065103],[-2.872127,53.707521],[-2.8699187,53.7083857],[-2.8675087,53.7093089]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8804655,53.7039511],[-2.8798852,53.7030608],[-2.8793706,53.7023303]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8736121,53.7014279],[-2.8717024,53.7003923],[-2.8707017,53.6998519],[-2.8700944,53.6995399],[-2.8698691,53.6994336],[-2.8697622,53.6993454],[-2.8692122,53.6988774],[-2.8682803,53.6979955],[-2.868032,53.6977151],[-2.8676997,53.6972109],[-2.8673378,53.6962469]]]}}
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "LIVER_183_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9096196,53.356582],[-2.9088551,53.3573258]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9096647,53.3566077],[-2.9101937,53.3565203],[-2.9102554,53.3564888],[-2.9106033,53.3561498],[-2.9106825,53.3561051],[-2.9107992,53.3560801],[-2.9109225,53.3561012],[-2.9112913,53.3562365],[-2.9113529,53.3562812],[-2.9113529,53.3563232],[-2.9110711,53.3566912],[-2.9108972,53.3569244],[-2.910677,53.3571833],[-2.9102928,53.3576136],[-2.9098547,53.3576215],[-2.9088815,53.3573311],[-2.9088551,53.3573258],[-2.9083564,53.357226],[-2.9080988,53.3571208],[-2.9080592,53.3570788],[-2.9080487,53.356983]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9097215,53.3562785],[-2.9096664,53.356251],[-2.909651,53.3562023]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.910677,53.3571833],[-2.9096647,53.3566077],[-2.9096196,53.356582],[-2.9093336,53.3564194],[-2.9091822,53.3563333]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9080988,53.3571208],[-2.9084071,53.3570065],[-2.9085898,53.3569106],[-2.9087285,53.356812],[-2.9089179,53.3566386],[-2.9090566,53.3565571],[-2.9091931,53.3565006],[-2.9093336,53.3564194],[-2.9096664,53.356251]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9169948,53.3591297],[-2.9166462,53.3592273],[-2.9164966,53.3592678],[-2.9166817,53.3593545],[-2.9167603,53.3592865]]]}}
+]
+}

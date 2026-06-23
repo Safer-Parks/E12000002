@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "FYLDE_53_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0458133,53.7605637],[-3.0443384,53.7609953]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0443384,53.7609953],[-3.0442881,53.7610116],[-3.0442109,53.7610339]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0480433,53.7666568],[-3.0481262,53.766641],[-3.0483132,53.7666056],[-3.0491922,53.7664388],[-3.0496587,53.7663973],[-3.0501808,53.7662548]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0521194,53.7738018],[-3.0523519,53.7737517]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Clifton Drive North","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0441475,53.7609592],[-3.0440278,53.7608177],[-3.0434916,53.7601837],[-3.0433013,53.7599562]]]}}
+]
+}

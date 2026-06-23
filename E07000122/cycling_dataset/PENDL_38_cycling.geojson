@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "PENDL_38_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2007308,53.8276965],[-2.2005494,53.8275542],[-2.2001346,53.8269435],[-2.1995305,53.8264874],[-2.1988702,53.8261226],[-2.1985798,53.8260491],[-2.1984025,53.8260221]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2005494,53.8275542],[-2.2001439,53.8272015],[-2.1996459,53.8267683]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2001439,53.8272015],[-2.1995853,53.8274031],[-2.1993604,53.8274031],[-2.1993306,53.8274031],[-2.1990678,53.82731],[-2.1988009,53.8271286],[-2.1987371,53.8270754],[-2.1985298,53.8269037]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1993604,53.8274031],[-2.1992021,53.8272591],[-2.1994244,53.827179]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1993001,53.8268187],[-2.1987952,53.8270611],[-2.1987371,53.8270754]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1994671,53.8299307],[-2.1994813,53.8298482],[-2.1993083,53.8295972]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1993083,53.8295972],[-2.199361,53.8295777],[-2.1994799,53.8295603],[-2.1995258,53.8296032],[-2.1997963,53.8298984]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1991809,53.8299457],[-2.1991072,53.8299886],[-2.1990192,53.8300205],[-2.1989613,53.8300323],[-2.1988753,53.8300347],[-2.1987893,53.8300229],[-2.1986894,53.829991],[-2.1982556,53.8298341],[-2.1981836,53.8298128],[-2.1981116,53.8298034],[-2.1980396,53.8298069],[-2.1978737,53.8298152],[-2.1977677,53.8298105],[-2.1976918,53.8297999],[-2.1976118,53.8297833],[-2.1975518,53.8297645],[-2.1975258,53.8297326],[-2.1975118,53.8297043],[-2.1974781,53.8292795]]]}}
+]
+}

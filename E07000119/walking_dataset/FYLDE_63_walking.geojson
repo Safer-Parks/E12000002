@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "FYLDE_63_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":"Green Drive","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9458153,53.7446754],[-2.9473788,53.7448838],[-2.9496211,53.7451878],[-2.9521274,53.745507],[-2.9553047,53.7458293],[-2.9567381,53.745848],[-2.959107,53.7453693],[-2.9596237,53.7453695],[-2.9600317,53.7453664]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9623128,53.7551457],[-2.9623061,53.7550452],[-2.962473,53.75436],[-2.9625482,53.754345],[-2.9630605,53.7543537],[-2.9638899,53.754361],[-2.9640872,53.7543563],[-2.9641797,53.7543431]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.965398,53.7559423],[-2.9656065,53.7558859],[-2.9657964,53.7558203],[-2.9658894,53.7557634],[-2.9664521,53.7551328],[-2.9665866,53.7550572],[-2.9668866,53.7549684],[-2.9688897,53.7544513],[-2.9692587,53.754356],[-2.9693888,53.7543328],[-2.9695849,53.7543305]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9620472,53.751592],[-2.9619142,53.7513811],[-2.9617884,53.7510744]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9619142,53.7513811],[-2.9615547,53.7514753]]]}}
+]
+}

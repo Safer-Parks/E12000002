@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CHORL_26_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6710592,53.6704335],[-2.6709945,53.6704017],[-2.6709578,53.6703499],[-2.6709256,53.6703173],[-2.6708865,53.6702941],[-2.6708405,53.6702859],[-2.670767,53.6702846],[-2.6707187,53.6702818],[-2.6706589,53.6702056],[-2.6706153,53.6701198],[-2.6705854,53.6700776],[-2.6705647,53.6700108],[-2.6705463,53.6699455],[-2.6705279,53.669876],[-2.6705049,53.6698229],[-2.6704245,53.6697412],[-2.6704061,53.6696745],[-2.6703874,53.6696234],[-2.6703783,53.6695986]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6715324,53.6712322],[-2.671494,53.6711429],[-2.6714386,53.670948],[-2.6712683,53.6706802],[-2.6711851,53.6704355],[-2.6710592,53.6704335]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6761928,53.6709396],[-2.6760024,53.6709603],[-2.675866,53.6709367]]]}}
+]
+}

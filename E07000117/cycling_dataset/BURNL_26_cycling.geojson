@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "BURNL_26_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2315631,53.7849417],[-2.2314837,53.7849591],[-2.2314497,53.7849624],[-2.2312947,53.7849774],[-2.2311059,53.7849957],[-2.2309951,53.7850105],[-2.2307616,53.7850141],[-2.2304246,53.7849758],[-2.2301019,53.784941],[-2.2296532,53.784911]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2343953,53.7838147],[-2.2335971,53.783957],[-2.2335347,53.7839677],[-2.2335111,53.7839144],[-2.2329229,53.7840178],[-2.2322095,53.7841192]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Brunswick Street","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2327114,53.7832226],[-2.232285,53.7832866],[-2.2320049,53.7833286],[-2.2318736,53.7833483]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2131856,53.7917049],[-2.2128723,53.7918349],[-2.2127396,53.7919373],[-2.212605,53.7920422],[-2.2125741,53.7920834]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2296253,53.7822301],[-2.229443,53.7822004],[-2.2290836,53.7821909],[-2.2287591,53.7822702],[-2.2285981,53.7822924],[-2.2283084,53.7822987],[-2.2280617,53.782286],[-2.2279651,53.7822797],[-2.2278391,53.7822559],[-2.2275762,53.7822163],[-2.2274582,53.7822179],[-2.2273348,53.7822527],[-2.22699,53.7823764],[-2.2266589,53.7824952],[-2.2263589,53.7825975],[-2.2256829,53.7828279]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.233479,53.7837258],[-2.2332807,53.7837513],[-2.2329944,53.7837913],[-2.2325484,53.7838535],[-2.2321198,53.7839132]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2296532,53.784911],[-2.2295828,53.784853],[-2.2295895,53.7847989]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2335351,53.7838363],[-2.2332807,53.7837513]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Red Lees Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2100814,53.7865111],[-2.2106242,53.7867652]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Brownside Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.2106242,53.7867652],[-2.2102416,53.7870433]]]}}
+]
+}

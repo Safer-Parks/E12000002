@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "FYLDE_1_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8807907,53.7791011],[-2.8807532,53.7788945],[-2.8805806,53.778909],[-2.8803956,53.7789297],[-2.8802655,53.7789563],[-2.8801855,53.7789592],[-2.8800805,53.7789415],[-2.879966,53.7789097]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8801855,53.7789592],[-2.8800555,53.7789888],[-2.8798304,53.7789799],[-2.8795853,53.7789858],[-2.8794009,53.7789281]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8811941,53.7790758],[-2.8807907,53.7791011],[-2.8806344,53.7793172]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8711441,53.7789535],[-2.8710061,53.7788847]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8699572,53.7790711],[-2.8710061,53.7788847]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Union Passage","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8748574,53.7820964],[-2.8748237,53.7820303]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Chestnut Close","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8730385,53.7810313],[-2.87222,53.7811309],[-2.8721901,53.7809491]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8819829,53.7838884],[-2.8820223,53.7839742],[-2.8822985,53.7844247]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8811581,53.7827793],[-2.8818956,53.7827284]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8714992,53.7842607],[-2.871583,53.7845784],[-2.8715882,53.7845983],[-2.8716498,53.7848318],[-2.8717207,53.7851004],[-2.8717241,53.7851132]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8717207,53.7851004],[-2.8714953,53.785374],[-2.871056,53.7855864]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8715882,53.7845983],[-2.871469,53.7846684],[-2.8709618,53.784897],[-2.8707555,53.785024]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8717241,53.7851132],[-2.8717327,53.785146],[-2.8728901,53.7860097],[-2.8728896,53.7860364]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Bryning Fern Lane","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8844009,53.7792145],[-2.8844457,53.7791043]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Union Passage","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8748237,53.7820303],[-2.8747227,53.7818084]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Dowbridge","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8651648,53.7810864],[-2.8640827,53.7806437],[-2.8636965,53.7804967],[-2.8636043,53.7804553],[-2.8618576,53.7797853],[-2.8613515,53.7795824],[-2.8611604,53.7795055],[-2.8609861,53.7794454],[-2.8608392,53.7794052],[-2.8606454,53.7793602],[-2.8601411,53.7792666],[-2.8591784,53.7790983],[-2.8590192,53.7790784]]]}}
+]
+}

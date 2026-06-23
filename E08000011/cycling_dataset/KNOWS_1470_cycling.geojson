@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "KNOWS_1470_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8727081,53.5002251],[-2.8727011,53.5002727],[-2.8726971,53.5003001],[-2.8726671,53.5005915]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8865984,53.4981551],[-2.8865665,53.4981629],[-2.8865379,53.4981614],[-2.8864529,53.498157],[-2.8854778,53.4982985]]]}}
+]
+}

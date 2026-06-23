@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "STHEL_15_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":"Lincoln Way","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7568036,53.4078529],[-2.7567941,53.4078361]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.747146,53.4041251],[-2.7471756,53.4041018],[-2.7472161,53.4040918],[-2.7472573,53.4040857],[-2.7473113,53.4040788],[-2.7473592,53.4040626],[-2.7473984,53.4040377],[-2.7474191,53.4039964],[-2.7474389,53.4039426],[-2.7474591,53.4039277],[-2.747486,53.4039175]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Dunbeath Avenue","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7568101,53.4078684],[-2.7568036,53.4078529]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.747652,53.4038948],[-2.7476378,53.4038025],[-2.7476463,53.4037374],[-2.7476606,53.4036753],[-2.7476884,53.4036096],[-2.7477311,53.4035445],[-2.7477844,53.4034947],[-2.7478398,53.4034533]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7471156,53.40424],[-2.7471314,53.4041805],[-2.747146,53.4041251]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.747486,53.4039175],[-2.7475681,53.4039063],[-2.747652,53.4038948]]]}}
+]
+}

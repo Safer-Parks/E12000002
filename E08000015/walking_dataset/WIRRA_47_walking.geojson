@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "WIRRA_47_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0532345,53.3661817],[-3.0532389,53.3660836],[-3.0537429,53.3656356],[-3.0537592,53.365549],[-3.0539463,53.365439]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0443308,53.3682312],[-3.0439693,53.3680422],[-3.0436084,53.3678536]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0439693,53.3680422],[-3.0440284,53.3679674],[-3.0441567,53.3675711]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0362435,53.3694589],[-3.0361826,53.3698312]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Roman Road","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0483491,53.3611101],[-3.0483111,53.3611531],[-3.0483151,53.3612031],[-3.0484054,53.3612581],[-3.0484832,53.3613035],[-3.048802,53.3616947],[-3.0489597,53.3619645],[-3.0489794,53.362023],[-3.0489943,53.3620984],[-3.0490627,53.362233],[-3.0492374,53.3624617],[-3.0494129,53.362634],[-3.0494689,53.362677],[-3.0496038,53.3627807],[-3.0496904,53.3628452],[-3.0497754,53.3629084],[-3.0498454,53.3629449],[-3.0499394,53.3629881],[-3.0499918,53.3630479],[-3.0500157,53.3631157],[-3.0500303,53.3631927],[-3.0500442,53.3632553]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0423236,53.3734867],[-3.0420815,53.373798],[-3.0414497,53.3738891]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.043951,53.3736686],[-3.0440139,53.3737115],[-3.0441276,53.373789]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0484419,53.3734363],[-3.0485277,53.3736842],[-3.0484014,53.373755]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0412146,53.3688702],[-3.0412631,53.3690763]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.04901,53.3630922],[-3.0491627,53.3630775],[-3.0492808,53.363054],[-3.0493823,53.3630267],[-3.0494641,53.3629925],[-3.0495464,53.3629461],[-3.0496145,53.3628932],[-3.0496904,53.3628452],[-3.0497663,53.362807],[-3.049882,53.3627755],[-3.0499843,53.3627466],[-3.0500322,53.3627433],[-3.0503913,53.3627944],[-3.0504934,53.362817]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0500322,53.3627433],[-3.049793,53.3627167],[-3.0494689,53.362677],[-3.0492692,53.3626526]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0362436,53.36921],[-3.0360634,53.3693164]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":"The Bunny Run","category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0411742,53.3656159],[-3.0397238,53.3664392]]]}}
+]
+}

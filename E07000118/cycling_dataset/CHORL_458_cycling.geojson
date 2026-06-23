@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "CHORL_458_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7998375,53.6819149],[-2.7998896,53.6819797],[-2.8004234,53.6824658]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7911897,53.6817677],[-2.7912824,53.6817502]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7914027,53.6821498],[-2.7911897,53.6817677],[-2.7910303,53.6814817]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8026988,53.6810816],[-2.8026536,53.6809098],[-2.8025772,53.6808566],[-2.8024739,53.680689],[-2.8023854,53.6804396],[-2.8023371,53.6801838],[-2.802317,53.680071]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7954205,53.6774627],[-2.7953245,53.6776752],[-2.7953406,53.6777507],[-2.7952842,53.6777848],[-2.7951448,53.6780915],[-2.7951019,53.6781757],[-2.7950589,53.6781932],[-2.7950107,53.6781979],[-2.7947693,53.6781654]]]}}
+]
+}

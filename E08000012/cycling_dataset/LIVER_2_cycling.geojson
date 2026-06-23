@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"name": "LIVER_2_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9713776,53.3821911],[-2.9714447,53.3821407],[-2.971517,53.3820862]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Thames Street","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9545661,53.3928286],[-2.9544249,53.3928361]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Cairns Street","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9546913,53.3924658],[-2.9545545,53.3924978]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.955749,53.383141],[-2.9558705,53.383087]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9616577,53.3856257],[-2.9616354,53.3854933],[-2.9616304,53.3853645],[-2.9616378,53.3852723],[-2.9616538,53.3851656],[-2.961692,53.3851311]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9633683,53.3785244],[-2.9635233,53.3785762],[-2.9636519,53.378625]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.955923,53.3863433],[-2.9550524,53.386239],[-2.9539371,53.3861054],[-2.953803,53.3861],[-2.953438,53.386069],[-2.9527375,53.3859764],[-2.952589,53.3859568]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9572224,53.3864738],[-2.9567362,53.386423],[-2.955923,53.3863433]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Kingsley Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9554065,53.3906202],[-2.9553709,53.3905277],[-2.9553316,53.3904679]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9722904,53.3815255],[-2.9722877,53.3814264],[-2.9722075,53.3813769],[-2.9711255,53.3807088],[-2.9709531,53.3806023],[-2.9708269,53.3806383]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9596731,53.3925484],[-2.9595017,53.3924611],[-2.9591187,53.3922773]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9589212,53.3923059],[-2.9591187,53.3922773],[-2.9590263,53.3922304],[-2.9590741,53.3921922]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9594068,53.3926977],[-2.9594939,53.3926843],[-2.9596427,53.3926664]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9638671,53.394284],[-2.9638359,53.3942679],[-2.9636791,53.3941867],[-2.9635999,53.394126],[-2.9617517,53.3932706],[-2.9616226,53.393206],[-2.9614907,53.3931427],[-2.9614581,53.393127],[-2.9594175,53.3921468],[-2.9593332,53.3921119],[-2.9592374,53.3920676],[-2.9591958,53.3920471],[-2.9560943,53.3905889],[-2.9560209,53.390554]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9615499,53.3930987],[-2.9614907,53.3931427],[-2.9614004,53.3932142],[-2.9613202,53.3932778],[-2.9612667,53.3933231]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9592974,53.3920208],[-2.9592374,53.3920676],[-2.9591469,53.3921414],[-2.9590741,53.3921922]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9603238,53.378959],[-2.9601985,53.3790365],[-2.9600177,53.3790995]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Woodruff Street","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9684666,53.3844201],[-2.9683713,53.3843666],[-2.9682398,53.3842944]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9561104,53.39048],[-2.9561369,53.390458],[-2.9558419,53.3903204],[-2.9557453,53.3902004],[-2.9557158,53.3900637],[-2.9557131,53.3899845],[-2.9555796,53.389982],[-2.9554905,53.3899893],[-2.9552033,53.3900983],[-2.9551053,53.3902314]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9560209,53.390554],[-2.9561104,53.39048]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9561961,53.3817582],[-2.9561738,53.3817449]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9617249,53.3930227],[-2.961873,53.3930188]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9594742,53.3919543],[-2.9595499,53.3919511]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9550782,53.3903335],[-2.9551053,53.3902314]]]}}
+]
+}

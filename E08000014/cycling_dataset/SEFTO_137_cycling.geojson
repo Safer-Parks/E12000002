@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SEFTO_137_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9448696,53.5095177],[-2.9442219,53.509706]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9441233,53.5113249],[-2.9442777,53.5113276],[-2.9443696,53.5112854],[-2.9443989,53.5111586],[-2.9444198,53.5109051],[-2.9444699,53.5107435]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9426339,53.5164491],[-2.9422052,53.516489],[-2.9418168,53.5165446],[-2.9415991,53.5165585],[-2.9411054,53.5165756],[-2.9409163,53.5168515],[-2.9409077,53.516955],[-2.9408912,53.5169758]]]}}
+]
+}

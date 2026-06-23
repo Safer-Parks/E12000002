@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CHORL_594_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.586495,53.6033291],[-2.5863004,53.6034357]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Greenland Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5771241,53.6037359],[-2.5771592,53.6034823],[-2.5773173,53.6023401],[-2.5774825,53.6016825],[-2.5774573,53.6014724],[-2.5773891,53.6012359],[-2.5773419,53.6010917],[-2.5772979,53.6009169],[-2.5771145,53.6007679],[-2.5769514,53.6006431],[-2.576533,53.600051]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5863004,53.6034357],[-2.5862477,53.6034613],[-2.5861958,53.603467],[-2.5861477,53.6034613],[-2.5860439,53.603402],[-2.5859631,53.6033803],[-2.5858823,53.6033746],[-2.5857381,53.6033906],[-2.5855112,53.6034465],[-2.5854515,53.6034488],[-2.5853919,53.6034362],[-2.5852439,53.6034043],[-2.5850996,53.603378]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5865178,53.6032725],[-2.5866768,53.6033679],[-2.5872758,53.6037114]]]}}
+]
+}

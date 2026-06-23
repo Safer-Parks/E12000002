@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "CHORL_19_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":"Chapel Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6410371,53.6876742],[-2.6408681,53.6879257],[-2.6408333,53.6879778],[-2.6407512,53.6879993],[-2.6405071,53.688025]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Chapel Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6405071,53.688025],[-2.6399348,53.6880954],[-2.6393299,53.6881699]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Back Lane","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6438509,53.6987105],[-2.6432687,53.6985581]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6296918,53.6911705],[-2.6298139,53.6909828],[-2.6299017,53.6908479]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.644046,53.6901887],[-2.644247,53.6902323],[-2.6442943,53.6902424],[-2.6443444,53.6902566],[-2.6447634,53.6903742]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.6434358,53.6900458],[-2.6433975,53.6900982],[-2.6433693,53.6901561],[-2.6433545,53.6902054],[-2.6433626,53.6902356],[-2.6434417,53.6902681],[-2.6450028,53.6907152]]]}}
+]
+}

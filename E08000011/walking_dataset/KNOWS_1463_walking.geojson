@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "KNOWS_1463_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8310455,53.4000636],[-2.8308678,53.4000208],[-2.8308368,53.3999736]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8269396,53.400886],[-2.827089,53.400717],[-2.8272767,53.4005187],[-2.8272821,53.400346],[-2.8274245,53.400086]]]}}
+]
+}

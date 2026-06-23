@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"name": "LIVER_138_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":"Moscow Drive","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9206814,53.4224021],[-2.9204513,53.422444]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9213302,53.4241646],[-2.9216848,53.4241079]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9208266,53.4235169],[-2.9211217,53.423473]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9209865,53.4228667],[-2.9209312,53.4228744]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9171443,53.4319091],[-2.9171074,53.4319469],[-2.9174062,53.4322124],[-2.9174448,53.4322546],[-2.9175123,53.4323474]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Liverpool Loop Line","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9121085,53.4288465],[-2.9120032,53.4288298],[-2.9119749,53.4288202],[-2.9119472,53.4288049],[-2.911522,53.4285138],[-2.9111918,53.4282415],[-2.9109523,53.427822],[-2.9105602,53.427469],[-2.9091267,53.4265056],[-2.9078916,53.4257166],[-2.9063262,53.4246132],[-2.905482,53.4238285],[-2.9041028,53.4220076],[-2.9038481,53.4215381]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.915342,53.4248896],[-2.915235,53.4245301]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9267209,53.4277754],[-2.9269312,53.4279935],[-2.9269709,53.428048],[-2.9272137,53.4282662]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9272137,53.4282662],[-2.9267247,53.4286561],[-2.9261564,53.429116],[-2.9260062,53.429143],[-2.9258954,53.4290719],[-2.9258382,53.4290085],[-2.9257865,53.4289559],[-2.9257021,53.4288699],[-2.9256732,53.4288031]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9272137,53.4282662],[-2.9273445,53.4283633],[-2.9273975,53.4283979]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9188992,53.4206381],[-2.9192231,53.420545],[-2.9192539,53.4205893],[-2.91962,53.4211167],[-2.9196486,53.421158],[-2.9199538,53.4215615],[-2.9199952,53.4216294],[-2.9200416,53.4216763],[-2.9200453,53.4216811],[-2.9200833,53.4217403],[-2.9202304,53.4219886],[-2.9203171,53.4221578],[-2.9203746,53.4222517]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.915235,53.4245301],[-2.9151816,53.4242974]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9300899,53.4252803],[-2.9300502,53.4252214],[-2.9301267,53.4251986],[-2.9300909,53.4251577]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Bankfield Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9208262,53.4232451],[-2.9208078,53.4231521]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9154978,53.4310189],[-2.9156987,53.4308749]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9156987,53.4308749],[-2.915839,53.4307671]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9275096,53.4285818],[-2.927433,53.4285097],[-2.9274205,53.4284979],[-2.9273975,53.4283979]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9156765,53.4244105],[-2.9157665,53.4247488]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.915235,53.4245301],[-2.9153404,53.4245193],[-2.9154573,53.4245072],[-2.9154365,53.4244352],[-2.9155735,53.4244211],[-2.9156765,53.4244105]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9200416,53.4216763],[-2.9197061,53.421755]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Liverpool Loop Line","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9207332,53.434316],[-2.9203259,53.4340643],[-2.9171443,53.4319091],[-2.9171112,53.4318876],[-2.9162077,53.4313012],[-2.9123815,53.4289795]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Liverpool Loop Line","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9123815,53.4289795],[-2.9121669,53.4288632],[-2.9121085,53.4288465]]]}}
+]
+}

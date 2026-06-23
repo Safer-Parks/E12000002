@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "WIRRA_46_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0263908,53.3805804],[-3.0260287,53.3805635]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Carlton Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0336316,53.3815359],[-3.0336946,53.3815243],[-3.0337525,53.3815116]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Brattan Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0332139,53.3840721],[-3.0334444,53.3840707]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0251239,53.3885983],[-3.0251114,53.3886922]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0273454,53.3884215],[-3.027363,53.3884695],[-3.0274154,53.3884639],[-3.0274193,53.3884721]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0326546,53.3847617],[-3.0328108,53.3847826]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0348085,53.3880551],[-3.0348949,53.3878988]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Frodsham Street","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0198465,53.3832272],[-3.0198951,53.3831857],[-3.019946,53.3831423]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0286838,53.3950874],[-3.0285501,53.3950297],[-3.0284439,53.3950043],[-3.0284068,53.3950128]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0251879,53.3940751],[-3.0250649,53.3940864],[-3.02503,53.3940808],[-3.024886,53.3940574],[-3.0247833,53.3940574],[-3.0247121,53.3941151]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0247833,53.3940574],[-3.0247929,53.3940349],[-3.0248985,53.3939471],[-3.0246655,53.3938799],[-3.0245502,53.3938686],[-3.0243574,53.3938655],[-3.0242644,53.3938758],[-3.0242197,53.3938922],[-3.0242238,53.3939177]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.02503,53.3940808],[-3.0250028,53.3939969],[-3.0249658,53.3939695],[-3.0248985,53.3939471]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0224678,53.3936708],[-3.0222916,53.3934625],[-3.0222124,53.3933888]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0274241,53.3884822],[-3.0274274,53.3884891],[-3.0273791,53.3885011],[-3.0274023,53.3885531]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0196941,53.3910787],[-3.0197545,53.3909962],[-3.0197975,53.3909376]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0231644,53.391985],[-3.0229069,53.3918967],[-3.02265,53.391798],[-3.0221111,53.3916469],[-3.0214617,53.3914653],[-3.0207411,53.3912663],[-3.0197545,53.3909962]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.025305,53.3925126],[-3.0251373,53.3925185],[-3.0247867,53.3924242],[-3.0246504,53.3923744],[-3.0244784,53.3923264],[-3.0238509,53.3921512],[-3.0236495,53.3921038],[-3.0231644,53.391985]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Europa Boulevard","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0231644,53.391985],[-3.0230931,53.3920481],[-3.0222816,53.3931253],[-3.0222624,53.3931868],[-3.0222711,53.3932472],[-3.0222169,53.3933327],[-3.0221348,53.3933806],[-3.0220317,53.3934515],[-3.0219653,53.3935171],[-3.0213763,53.3942644],[-3.0212781,53.3943981]]]}}
+]
+}

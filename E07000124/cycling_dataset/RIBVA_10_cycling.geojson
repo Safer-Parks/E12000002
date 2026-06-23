@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "RIBVA_10_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":"Edisford School path","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4048727,53.8681164],[-2.4048827,53.8682277],[-2.4049533,53.8685797],[-2.4049031,53.8688053],[-2.4049152,53.8690027],[-2.4050249,53.8690072],[-2.4051304,53.8690052],[-2.4053065,53.8691017],[-2.4053186,53.8691877],[-2.4053266,53.8693751],[-2.4057281,53.8693755],[-2.4058894,53.8693732],[-2.4060149,53.8693725]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3958655,53.8689109],[-2.3958009,53.8688448],[-2.3957136,53.8687655],[-2.3956216,53.8686955],[-2.3954301,53.8686507]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3936797,53.869703],[-2.3937273,53.8698326],[-2.3937505,53.8699285],[-2.3937522,53.8700134],[-2.3936712,53.8703002],[-2.3935796,53.8704935],[-2.3935032,53.8705787],[-2.3934305,53.8706177],[-2.3933726,53.8706364],[-2.393313,53.8706447]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3957451,53.8642899],[-2.3958935,53.8643186],[-2.3963032,53.8644548],[-2.39651,53.8645238],[-2.3969472,53.8646679]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Talbot Close","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3871158,53.8673622],[-2.3871523,53.8673123],[-2.387776,53.8664602]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4004224,53.8658883],[-2.4004544,53.8658564],[-2.4007247,53.8656069],[-2.4010041,53.865325],[-2.4011779,53.8651514],[-2.4013174,53.8650075],[-2.4016661,53.8646595]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3948458,53.8668468],[-2.394899,53.8668277],[-2.3949563,53.8667899],[-2.395083,53.8666885],[-2.3951378,53.8666108],[-2.3951449,53.8665617],[-2.3951128,53.8665392],[-2.3950955,53.8665271],[-2.3950283,53.8664951],[-2.3950279,53.866472],[-2.3950509,53.8664428],[-2.3950651,53.8664133]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3998232,53.8656028],[-2.3998486,53.8655624],[-2.4004889,53.864828]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4056984,53.8610192],[-2.4054508,53.8610655],[-2.4052178,53.8611409],[-2.4050081,53.8611855],[-2.4042058,53.8612821],[-2.4040669,53.8613473],[-2.4035819,53.861622],[-2.4032617,53.8617977],[-2.4030688,53.8618996],[-2.4030217,53.861924],[-2.4018205,53.8623277]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Queensway","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3930213,53.8678163],[-2.392596,53.8679136],[-2.3921491,53.8679792],[-2.3920009,53.8679939],[-2.3918272,53.8679959],[-2.3916512,53.8680076],[-2.3915311,53.8680262],[-2.3913524,53.868062]]]}}
+]
+}

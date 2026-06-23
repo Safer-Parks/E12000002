@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WESLA_235_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8162436,53.6409749],[-2.8155471,53.6411682],[-2.8149532,53.6413335]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8304674,53.6436952],[-2.8303346,53.6439065],[-2.8302306,53.6440534],[-2.8300619,53.6440986],[-2.8294341,53.6442061],[-2.8292352,53.6442317],[-2.8286335,53.6442561],[-2.8283498,53.6442793],[-2.8277841,53.6443418],[-2.8275879,53.6443346],[-2.8274574,53.6443089]]]}}
+]
+}

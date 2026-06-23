@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "WIRRA_91_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9912123,53.3242825],[-2.9911144,53.3242848],[-2.9909005,53.3242582],[-2.9906871,53.3243001],[-2.9905276,53.3242855],[-2.9902444,53.3242595],[-2.9899655,53.3242407],[-2.989674,53.3242648],[-2.9893668,53.3243079],[-2.9887679,53.3245656]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9887679,53.3245656],[-2.9881727,53.3248127]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9881727,53.3248127],[-2.9877428,53.3249234]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9877428,53.3249234],[-2.9877224,53.3249302],[-2.9876572,53.3250243],[-2.9875334,53.3252331],[-2.9873558,53.3255146],[-2.9871062,53.3257774]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9966317,53.3276666],[-2.9962385,53.327636],[-2.9958791,53.3276248],[-2.9956028,53.3276392],[-2.9954338,53.3276633],[-2.9953909,53.3276953],[-2.9953721,53.3277401],[-2.9953587,53.3277786]]]}}
+]
+}

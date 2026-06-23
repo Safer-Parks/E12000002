@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "STHEL_75_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7405065,53.4079703],[-2.739775,53.407751],[-2.738951,53.4075565],[-2.737655,53.4071318],[-2.736728,53.4068607],[-2.7356294,53.4066355],[-2.7350543,53.4064206],[-2.7348311,53.4062774],[-2.7342046,53.4060215],[-2.7341102,53.4059243],[-2.731414,53.4062958],[-2.731271,53.4063474],[-2.7310735,53.4066675],[-2.7302162,53.4077703],[-2.7301172,53.4078253],[-2.7299939,53.4078532],[-2.7297754,53.4079076]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"School Lane","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.744095,53.4068098],[-2.7440597,53.4069075],[-2.7440605,53.4069293],[-2.7440443,53.4069727],[-2.7438981,53.4070153]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7445541,53.4067754],[-2.744454,53.406765],[-2.7443495,53.4067542],[-2.7443349,53.4068044],[-2.7442179,53.4067923],[-2.7440637,53.4067763]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"School Lane","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7447797,53.4068036],[-2.7445309,53.406843],[-2.7445223,53.4068601]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"School Lane","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7445223,53.4068601],[-2.7444297,53.4068492],[-2.7443238,53.4068367],[-2.7442084,53.4068232],[-2.744095,53.4068098]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7440637,53.4067763],[-2.7440022,53.4069563],[-2.7438981,53.4070153]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7447797,53.4068036],[-2.7447436,53.4067517],[-2.7446646,53.4067465],[-2.7446545,53.4067847],[-2.7445541,53.4067754]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7463799,53.4187002],[-2.7464363,53.4185901],[-2.7464423,53.4182918],[-2.7463767,53.4180111],[-2.7458463,53.4176133],[-2.7458696,53.4173585]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7458696,53.4173585],[-2.7479513,53.417777],[-2.7486314,53.4177871]]]}}
+]
+}

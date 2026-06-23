@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "RIBVA_13_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4139563,53.872783],[-2.4143283,53.8728287]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Edisford School path","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4048727,53.8681164],[-2.4048827,53.8682277],[-2.4049533,53.8685797],[-2.4049031,53.8688053],[-2.4049152,53.8690027],[-2.4050249,53.8690072],[-2.4051304,53.8690052],[-2.4053065,53.8691017],[-2.4053186,53.8691877],[-2.4053266,53.8693751],[-2.4057281,53.8693755],[-2.4058894,53.8693732],[-2.4060149,53.8693725]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4177036,53.8594217],[-2.4177387,53.8595443],[-2.4175274,53.8596815],[-2.4170446,53.8596973],[-2.4168488,53.8597923],[-2.4167201,53.8598951],[-2.4162614,53.8600501],[-2.4162078,53.8601244],[-2.4159101,53.8601656],[-2.4156204,53.8602241],[-2.4153644,53.8601235]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4164254,53.8633702],[-2.4163589,53.8633712],[-2.416276,53.8633698],[-2.4161989,53.8633732],[-2.416088,53.8633966],[-2.4159433,53.8634173],[-2.4158659,53.8634275]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.4161344,53.8655312],[-2.4166146,53.8655852]]]}}
+]
+}

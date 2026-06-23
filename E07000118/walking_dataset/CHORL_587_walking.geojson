@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "CHORL_587_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5945434,53.6417175],[-2.5937162,53.6413531],[-2.5934812,53.6412478],[-2.5930091,53.6410761],[-2.5923408,53.6407333],[-2.59177,53.6402355],[-2.5914588,53.6398793],[-2.5909492,53.6391106],[-2.5907132,53.638659],[-2.5905234,53.6383147],[-2.590223,53.638003],[-2.5900943,53.6376532],[-2.5898549,53.6371769],[-2.5895636,53.6369105]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Water Street","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5895636,53.6369105],[-2.5893462,53.6368358],[-2.5892815,53.6368193],[-2.5891639,53.6368302],[-2.5888762,53.6370283],[-2.5881484,53.6372263],[-2.5874066,53.637358],[-2.5872743,53.6373899],[-2.5870349,53.6374588],[-2.5865475,53.6375567],[-2.5863284,53.6376035],[-2.5859198,53.6377121],[-2.5855543,53.6377979],[-2.5851821,53.6378387]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5863276,53.6281411],[-2.5870048,53.6290799],[-2.5873784,53.6295202],[-2.5877707,53.6299827],[-2.5881956,53.6303704],[-2.5888401,53.6309658],[-2.5894612,53.6314947],[-2.5900029,53.6319627],[-2.5902925,53.6322812],[-2.5907688,53.6326938],[-2.5912078,53.6329402],[-2.5923426,53.6336214],[-2.5931355,53.6342037],[-2.5927235,53.6350639],[-2.5928533,53.6352164]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Water Street Bridge","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5896616,53.6368626],[-2.5896058,53.6368894],[-2.5895636,53.6369105]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Hut Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5924788,53.6357022],[-2.5914856,53.6360669],[-2.590563,53.6364231],[-2.5898146,53.6368063],[-2.5896616,53.6368626]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Hut Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.5898146,53.6368063],[-2.5897073,53.6368891],[-2.5896845,53.6368972],[-2.5895636,53.6369105]]]}}
+]
+}

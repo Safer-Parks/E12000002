@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "WESLA_273_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8543099,53.6665915],[-2.8541441,53.6666128],[-2.8539742,53.6666791],[-2.8533724,53.6668519],[-2.8528267,53.6669936],[-2.8524733,53.6669791],[-2.852393,53.6669454],[-2.8522589,53.6668971],[-2.8521153,53.6666748]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8618624,53.6656667],[-2.8613272,53.6652574],[-2.86057,53.6646518],[-2.8600837,53.6642535]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8588022,53.6668547],[-2.8593531,53.6676207],[-2.8591586,53.6677321],[-2.859199,53.6678031]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8586783,53.6667111],[-2.8588022,53.6668547]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.859405,53.668006],[-2.8598969,53.6685047],[-2.8595985,53.6686195],[-2.8599298,53.6689056],[-2.8604093,53.6692449],[-2.8608921,53.6696325]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.859199,53.6678031],[-2.8592297,53.6678481],[-2.8592538,53.6678847],[-2.8593149,53.6679777],[-2.8593462,53.6680197]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8608921,53.6696325],[-2.8608945,53.6696755]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8551594,53.6707505],[-2.8552149,53.6708242],[-2.8557057,53.671412],[-2.8560638,53.6718677],[-2.8566235,53.672556],[-2.85665,53.6725843],[-2.8566473,53.6726125],[-2.8566394,53.672633],[-2.8567588,53.6735679],[-2.856955,53.6747685],[-2.8571381,53.6759548]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8528098,53.6682631],[-2.8516033,53.6684906],[-2.8508312,53.668636],[-2.85025,53.668744],[-2.849433,53.6689687],[-2.8484303,53.6691463],[-2.8483534,53.6690017],[-2.8462949,53.6694543],[-2.8461225,53.6691714],[-2.8455867,53.669327],[-2.8452868,53.6694286],[-2.8442604,53.6698142],[-2.8441728,53.6697906]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Taylor's Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8521876,53.6643787],[-2.8537838,53.6662117],[-2.854026,53.6664191],[-2.8543099,53.6665915]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8521587,53.6718729],[-2.8526875,53.6725409]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8583458,53.6668447],[-2.8579634,53.6664628]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8543099,53.6665915],[-2.8541011,53.6665486],[-2.8538543,53.6665438],[-2.8531998,53.6656999]]]}}
+]
+}

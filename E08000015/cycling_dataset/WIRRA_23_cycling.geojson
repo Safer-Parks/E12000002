@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "WIRRA_23_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0852284,53.3357561],[-3.0847443,53.3360045],[-3.0836439,53.3365138],[-3.0832429,53.3367247],[-3.0830529,53.3368002],[-3.0823781,53.3369572],[-3.0806165,53.3372436],[-3.0801902,53.3373157],[-3.0794007,53.3375438]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.1023643,53.3299711],[-3.1024157,53.3299244],[-3.1026763,53.3296881],[-3.1029111,53.3296291],[-3.1030038,53.3295608],[-3.1030934,53.3294556],[-3.1031741,53.3294066],[-3.1032239,53.3293935],[-3.1032878,53.3293565],[-3.1033424,53.3293045],[-3.1033759,53.3292951],[-3.103442,53.3292745],[-3.103486,53.3292525],[-3.1035595,53.3291993],[-3.1036213,53.3291442],[-3.1037168,53.3290158]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Pine Wood Drive","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0829049,53.3277028],[-3.0829302,53.3276734],[-3.0829696,53.3276276]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.1021543,53.3279279],[-3.1022683,53.3280272]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0917702,53.3309676],[-3.0916634,53.3309775],[-3.0912579,53.331015]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0912579,53.331015],[-3.0909268,53.3313227],[-3.0905276,53.3312341],[-3.0904347,53.3312039],[-3.0903636,53.3312243]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0903203,53.3311963],[-3.0903396,53.3312026],[-3.0903546,53.3312123],[-3.0903636,53.3312243],[-3.0903659,53.3312374],[-3.0903611,53.3312502],[-3.090349,53.331262],[-3.090331,53.3312707],[-3.0903092,53.3312754],[-3.0902861,53.3312755],[-3.0902642,53.3312709],[-3.090246,53.3312623],[-3.0902337,53.3312506],[-3.0902287,53.3312371],[-3.0902314,53.3312233],[-3.0902416,53.3312109],[-3.0902572,53.3312016],[-3.0902769,53.3311958],[-3.0902987,53.3311939],[-3.0903203,53.3311963]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0795079,53.3316508],[-3.079179,53.3315465]]]}}
+]
+}

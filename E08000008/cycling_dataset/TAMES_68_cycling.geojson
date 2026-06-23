@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "TAMES_68_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1340461,53.4560105],[-2.1338304,53.4559646],[-2.1336771,53.4559572],[-2.1335267,53.4558978]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1223556,53.4563279],[-2.1223305,53.4562041]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1252132,53.4551507],[-2.1249528,53.4551421]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1349093,53.4564593],[-2.1349922,53.456393],[-2.1350342,53.4562564],[-2.1351144,53.4561847],[-2.1352209,53.4561017],[-2.1353263,53.4560314]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.135358,53.4574563],[-2.135229,53.4572879],[-2.1351645,53.4572081],[-2.1349901,53.4570883],[-2.1347327,53.4569989],[-2.134451,53.4569605],[-2.1341875,53.4569014]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1248412,53.4555726],[-2.1248469,53.4555366],[-2.1248726,53.4553738],[-2.1248981,53.4552125],[-2.1249095,53.4551402]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1248726,53.4553738],[-2.12385,53.4553278],[-2.123872,53.4551587],[-2.1238804,53.4550941]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1238138,53.4550911],[-2.1238376,53.4548972],[-2.1244126,53.4549218],[-2.1249794,53.4549459],[-2.1249528,53.4551421]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.124391,53.455117],[-2.1244126,53.4549218]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.122914,53.4557222],[-2.1229725,53.4551665],[-2.1229779,53.4551148]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1359385,53.4573806],[-2.1358746,53.4574476],[-2.1357967,53.4575198],[-2.1356329,53.4575315],[-2.1355615,53.4575419],[-2.1354944,53.4574285],[-2.1354335,53.4574402],[-2.135358,53.4574563]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1353676,53.4560297],[-2.1353263,53.4560314],[-2.1348108,53.4560425],[-2.1340461,53.4560105]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1282817,53.4588933],[-2.1287352,53.4590032]]]}}
+]
+}

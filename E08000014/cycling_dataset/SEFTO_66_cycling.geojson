@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SEFTO_66_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9153452,53.4852316],[-2.9153751,53.4848225],[-2.9154592,53.4843932],[-2.9155897,53.4841553],[-2.9159748,53.4837114]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.8958604,53.4892412],[-2.8959172,53.4892343],[-2.8963225,53.4892157],[-2.8971118,53.4891454],[-2.8971766,53.4891946]]]}}
+]
+}

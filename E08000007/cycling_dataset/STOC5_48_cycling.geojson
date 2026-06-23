@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "STOC5_48_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Alan Road","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1903015,53.4191437],[-2.1900356,53.4194977]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.186782,53.4291496],[-2.1852971,53.4288479]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Buckingham Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1818704,53.4286193],[-2.1812932,53.4287863]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Buckingham Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1812932,53.4287863],[-2.1812308,53.4288041],[-2.1811076,53.4288418]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1927237,53.4264236],[-2.1932764,53.4262806]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1933071,53.4264836],[-2.1932764,53.4262806],[-2.1935395,53.4260405]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1928368,53.426482],[-2.1933071,53.4264836],[-2.1934773,53.4264842]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1862,53.4231644],[-2.1863796,53.4229898]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Alan Road","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1900356,53.4194977],[-2.1895937,53.4199512]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Buckingham Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.1819568,53.4285999],[-2.1818704,53.4286193]]]}}
+]
+}

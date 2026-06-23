@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "STHEL_32_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7219612,53.4898162],[-2.7242079,53.4915193],[-2.7232209,53.4917848],[-2.7245975,53.4928098],[-2.7246366,53.4928389],[-2.7273837,53.4948843],[-2.7278472,53.495063],[-2.7283181,53.4954565]]]}}
+]
+}

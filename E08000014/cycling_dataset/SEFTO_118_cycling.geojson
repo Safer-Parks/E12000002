@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SEFTO_118_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9288644,53.5000494],[-2.9290576,53.4996363],[-2.9290551,53.4995491],[-2.9289744,53.4995113],[-2.9286786,53.4994662],[-2.9281776,53.4993716],[-2.9276907,53.499264],[-2.9276711,53.4990822]]]}}
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HYNDB_44_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.397011,53.7909079],[-2.3968745,53.7910125]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3792962,53.7997993],[-2.3793071,53.7997367],[-2.3797056,53.7988978],[-2.3799202,53.7979655],[-2.3800701,53.7966252],[-2.3800887,53.7964589],[-2.3801543,53.7955211],[-2.3802542,53.7950516],[-2.3803891,53.7945641],[-2.3805569,53.7938385],[-2.3807137,53.7932225],[-2.3807534,53.7930415],[-2.3810405,53.7927305],[-2.3812148,53.7924745],[-2.3815105,53.7920147],[-2.3816992,53.7918804],[-2.3818599,53.7915908],[-2.3819807,53.791535],[-2.3821063,53.7913809]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.3965241,53.7880572],[-2.3965528,53.7880104],[-2.3965353,53.7879188]]]}}
+]
+}

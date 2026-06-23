@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CHORL_30_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7750872,53.6606492],[-2.7751351,53.6604364]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.7802788,53.65948],[-2.7798609,53.6594722],[-2.7793364,53.6594583]]]}}
+]
+}
