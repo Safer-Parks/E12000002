@@ -3,7 +3,6 @@
 "name": "LANCA_132",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "osm_id": 9751677785, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.7651008, 54.0769191 ] } },
 { "type": "Feature", "properties": { "osm_id": 9751677786, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.7650796, 54.0769301 ] } }
 ]
 }

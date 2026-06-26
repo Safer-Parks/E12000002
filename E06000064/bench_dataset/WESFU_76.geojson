@@ -4,7 +4,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "osm_id": 4911076524, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.903993, 54.1954537 ] } },
-{ "type": "Feature", "properties": { "osm_id": 4911076520, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.903961, 54.1954688 ] } },
-{ "type": "Feature", "properties": { "osm_id": 13680278750, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.9039486, 54.1962471 ] } }
+{ "type": "Feature", "properties": { "osm_id": 4911076520, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.903961, 54.1954688 ] } }
 ]
 }
