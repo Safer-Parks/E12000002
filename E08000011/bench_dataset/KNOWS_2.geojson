@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "KNOWS_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 10805861312, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.8546576, 53.427247 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10805861314, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.8551781, 53.4275046 ] } }
+]
+}

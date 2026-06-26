@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CUMBE_598",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 6583578114, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.1521055, 54.517787 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6583578110, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.1518958, 54.5178726 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6583578112, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.1520384, 54.5178754 ] } }
+]
+}

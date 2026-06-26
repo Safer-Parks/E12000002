@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CUMBE_902",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3461223590, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.8962141, 54.9170686 ] } }
+]
+}

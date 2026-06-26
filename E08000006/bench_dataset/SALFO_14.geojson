@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SALFO_14",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11768708205, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.266799, 53.48471 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9161131242, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.2691703, 53.4855946 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9176586554, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.2667375, 53.4859453 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9161131241, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.2683354, 53.4864442 ] } }
+]
+}

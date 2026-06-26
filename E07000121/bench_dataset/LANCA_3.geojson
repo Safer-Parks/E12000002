@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "LANCA_3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13874642689, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.7764709, 54.1414264 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13874642690, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.7765899, 54.1414819 ] } }
+]
+}

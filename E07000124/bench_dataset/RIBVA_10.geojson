@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RIBVA_10",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13233273141, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3996781, 53.8634815 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13532946384, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3986657, 53.8645692 ] } }
+]
+}

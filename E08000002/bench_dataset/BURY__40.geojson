@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BURY__40",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12289882085, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.2899156, 53.6044063 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12289926920, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.2896863, 53.6050696 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12289901807, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.2899439, 53.6051883 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12289914524, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.2893478, 53.6052592 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "OLDHA_22",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8901983957, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.0956953, 53.5534354 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8901983958, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.0957898, 53.5534569 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8901983959, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.0956231, 53.5535086 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8901983956, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.095707, 53.5535464 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CHEWE_4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11148189102, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.547004, 53.2447566 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11148167230, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.5477364, 53.2448258 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11148159849, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.5473195, 53.2448794 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "LANCA_37",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3984078027, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.8815894, 54.0639894 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3984078026, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.8819716, 54.0640309 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3984078025, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.8819468, 54.06406 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3984078024, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.8818831, 54.0641036 ] } }
+]
+}

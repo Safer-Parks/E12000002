@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "LIVER_95",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13794289700, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.9435324, 53.4062897 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13794191271, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.9435396, 53.4063501 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13794214002, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.9423091, 53.4063874 ] } }
+]
+}

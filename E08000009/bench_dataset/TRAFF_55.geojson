@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TRAFF_55",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11942189548, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3360012, 53.430013 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13428903574, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3341635, 53.4301009 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13428903570, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3359349, 53.4303162 ] } }
+]
+}

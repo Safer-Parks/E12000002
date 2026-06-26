@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CUMBE_76",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9415810429, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.7306327, 54.9427843 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9415810430, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.7309074, 54.9428374 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9415810428, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.7312532, 54.942914 ] } }
+]
+}

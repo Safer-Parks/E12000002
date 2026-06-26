@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "RIBVA_17",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13017756747, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.6044611, 53.8317587 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13017756746, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.6045566, 53.8317956 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13017756748, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.6044186, 53.8318061 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13017756745, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.6045106, 53.8318499 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13017756744, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.6042099, 53.8318812 ] } }
+]
+}

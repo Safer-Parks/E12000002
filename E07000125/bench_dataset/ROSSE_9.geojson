@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "ROSSE_9",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8968817311, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3132659, 53.6900765 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8969227897, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3132417, 53.6900863 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8968862650, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.313307, 53.6901638 ] } }
+]
+}

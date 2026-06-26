@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TAMES_38",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8721262683, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.0882796, 53.4884975 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8721262682, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.0884406, 53.4885232 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8721262576, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.0878508, 53.4886494 ] } }
+]
+}

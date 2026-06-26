@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "ROSSE_23",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8007733480, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1703091, 53.6656562 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8007733481, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1705079, 53.6656794 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8007733479, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1702, 53.6659444 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8007733482, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1703965, 53.6659618 ] } }
+]
+}
