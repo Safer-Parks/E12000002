@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "STOC5_0",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11592879493, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1327525, 53.4266851 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11592879492, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1329089, 53.4267597 ] } }
+]
+}

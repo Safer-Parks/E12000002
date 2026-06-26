@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WIGAN_82",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11447067931, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.5433217, 53.4958991 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11447067930, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.5429599, 53.4959144 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11447067929, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.5430123, 53.4961008 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11447067928, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.543385, 53.4961131 ] } }
+]
+}

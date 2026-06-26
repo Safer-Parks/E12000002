@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CHEEA_26",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11368134756, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.2504072, 53.325552 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11368112432, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.2510067, 53.3264905 ] } }
+]
+}

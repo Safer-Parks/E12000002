@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CHORL_0",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11833292152, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.5644746, 53.6871723 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11833305569, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.5646478, 53.6872414 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11833291702, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.5645392, 53.6875151 ] } }
+]
+}

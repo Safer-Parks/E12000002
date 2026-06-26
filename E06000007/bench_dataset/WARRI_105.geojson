@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WARRI_105",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11270516162, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.6474868, 53.4013109 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8920587588, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.6469388, 53.401844 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8920587590, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.647645, 53.4024444 ] } }
+]
+}

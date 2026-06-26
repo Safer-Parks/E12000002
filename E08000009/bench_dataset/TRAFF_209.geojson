@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TRAFF_209",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12029008155, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3083547, 53.4464757 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11640566936, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3088975, 53.4465109 ] } }
+]
+}

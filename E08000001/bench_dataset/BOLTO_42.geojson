@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BOLTO_42",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 6797012782, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3953625, 53.5766339 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6797012781, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3954008, 53.577297 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6797012784, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.3954438, 53.5782793 ] } }
+]
+}

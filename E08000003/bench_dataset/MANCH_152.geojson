@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "MANCH_152",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 6743931731, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1816552, 53.4585908 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6743931732, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1815095, 53.4586375 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6743931733, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1813527, 53.458714 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6743931734, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1813198, 53.4588381 ] } }
+]
+}

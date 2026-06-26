@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "OLDHA_12",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 10130766620, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1446071, 53.53861 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10130766619, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1446708, 53.5387539 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10130766618, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.1447332, 53.5388962 ] } }
+]
+}

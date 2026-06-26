@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WESFU_145",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4246737512, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.9486426, 54.4098771 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4246737511, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.9487027, 54.4100796 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3030757728, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.9487552, 54.4102546 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4246737510, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.94855, 54.4103945 ] } }
+]
+}

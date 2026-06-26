@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SEFTO_185",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13620325620, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.022857, 53.4855732 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13620325623, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.0226585, 53.4855766 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13620325622, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.0226585, 53.4855897 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13620325621, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.0228551, 53.4855905 ] } }
+]
+}

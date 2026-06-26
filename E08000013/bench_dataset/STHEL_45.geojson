@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "STHEL_45",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 10794830397, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.7308826, 53.4328421 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10794830398, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.7309452, 53.432955 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10794830399, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.7309542, 53.4331808 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10794830400, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.7309148, 53.4333683 ] } }
+]
+}

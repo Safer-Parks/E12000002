@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CHEEA_57",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8461390785, "name": "'Happy to Chat' bench", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.2387691, 53.3267378 ] } }
+]
+}

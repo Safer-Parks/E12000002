@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "LANCA_58",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9644370134, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.9030333, 54.0470277 ] } }
+]
+}
