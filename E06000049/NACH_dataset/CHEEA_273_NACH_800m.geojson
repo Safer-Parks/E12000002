@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "CHEEA_273_NACH_800m",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 66681, "nach": 0.23895033386046377 }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3774891, 53.375049700000012 ], [ -2.377584, 53.375104 ], [ -2.377617, 53.375140900000012 ], [ -2.3775918, 53.3752056 ], [ -2.3767277, 53.376138400000016 ] ] } },
+{ "type": "Feature", "properties": { "id": 100683, "nach": 0.22054752979425768 }, "geometry": { "type": "LineString", "coordinates": [ [ -2.37356040000001, 53.3752408 ], [ -2.3741263, 53.3753943 ], [ -2.3752897, 53.3757236 ], [ -2.3767277, 53.376138400000016 ] ] } },
+{ "type": "Feature", "properties": { "id": 100684, "nach": 0.29206763376448974 }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3734809, 53.375216 ], [ -2.37356040000001, 53.3752408 ] ] } },
+{ "type": "Feature", "properties": { "id": 100685, "nach": 0.32314342067183605 }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3734809, 53.375216 ], [ -2.3738453, 53.3747505 ], [ -2.3739313, 53.3747231 ], [ -2.3741731, 53.3743199 ] ] } },
+{ "type": "Feature", "properties": { "id": 114423, "nach": 0.36302119336715044 }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3789812, 53.3764219 ], [ -2.3797311, 53.3757094 ] ] } },
+{ "type": "Feature", "properties": { "id": 114424, "nach": 0.32140138640864707 }, "geometry": { "type": "LineString", "coordinates": [ [ -2.37874, 53.3766511 ], [ -2.3789812, 53.3764219 ] ] } },
+{ "type": "Feature", "properties": { "id": 114426, "nach": 0.28276275264682715 }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3788666, 53.3763828 ], [ -2.3789812, 53.3764219 ] ] } },
+{ "type": "Feature", "properties": { "id": 114425, "nach": 0.27995439855687271 }, "geometry": { "type": "LineString", "coordinates": [ [ -2.37874, 53.3766511 ], [ -2.3786308, 53.3766069 ] ] } },
+{ "type": "Feature", "properties": { "id": 114430, "nach": 0.0 }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3786308, 53.3766069 ], [ -2.3782697, 53.3764615 ], [ -2.3784962, 53.3762459 ], [ -2.3788666, 53.3763828 ] ] } }
+]
+}
