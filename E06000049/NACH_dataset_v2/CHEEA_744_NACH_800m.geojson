@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CHEEA_744_NACH_800m",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27700" } },
+"features": [
+{ "type": "Feature", "properties": { "u": "23958", "v": "23959", "name": null, "highway": [ "footway" ], "node_count": 43, "total_depth": 79.9375, "choice": 38.0, "nach": 0.82921893284054782, "nain": 1.1446178194834076 }, "geometry": { "type": "LineString", "coordinates": [ [ 384460.92105747765163, 385594.133167295716703 ], [ 384459.970764991128817, 385600.566709041013382 ], [ 384455.462419651914388, 385623.722155128605664 ], [ 384446.319740172533784, 385668.108810258039739 ] ] } }
+]
+}
