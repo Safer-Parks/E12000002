@@ -1,8 +1,8 @@
 {
 "type": "FeatureCollection",
 "name": "CHEEA_844_NACH_800m",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27700" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "u": "17577", "v": "17578", "name": [ "Stokesay Drive" ], "highway": [ "residential" ], "node_count": 37, "total_depth": 120.20703125, "choice": 0.0, "nach": 0.0, "nain": 0.64364162397653635 }, "geometry": { "type": "LineString", "coordinates": [ [ 391268.740049569867551, 386227.786290758347604 ], [ 391260.64718049170915, 386234.08129133132752 ], [ 391274.578346545458771, 386266.029977180471178 ], [ 391303.457912879588548, 386329.847727832850069 ] ] } }
+{ "type": "Feature", "properties": { "u": "17577", "v": "17578", "name": [ "Stokesay Drive" ], "highway": [ "residential" ], "node_count": 37, "total_depth": 120.20703125, "choice": 0.0, "nach": 0.0, "nain": 0.64364162397653635 }, "geometry": { "type": "LineString", "coordinates": [ [ -2.132695588447266, 53.372852852247235 ], [ -2.1328174, 53.372909300000025 ], [ -2.1326089, 53.3731967 ], [ -2.1321766, 53.37377080000001 ] ] } }
 ]
 }
