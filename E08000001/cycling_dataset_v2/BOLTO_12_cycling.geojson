@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BOLTO_12_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 329142501, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4282231, 53.6024323 ], [ -2.4282822, 53.6024786 ], [ -2.4282089, 53.6027238 ], [ -2.4282143, 53.6028098 ], [ -2.4284109, 53.6030133 ], [ -2.4286416, 53.60329 ], [ -2.42923, 53.6033425 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 568264913, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4300738, 53.6123111 ], [ -2.4300254, 53.6123035 ], [ -2.4299888, 53.6122966 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 655432304, "highway": "cycleway", "name": "Hough Lane", "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4257322, 53.6140071 ], [ -2.4257765, 53.6139831 ], [ -2.4258208, 53.6139587 ] ] } }
+]
+}

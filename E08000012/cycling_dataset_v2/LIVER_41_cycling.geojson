@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "LIVER_41_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4240954, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8884733, 53.3689303 ], [ -2.8871225, 53.3694322 ], [ -2.8848961, 53.3701488 ], [ -2.881978, 53.3705797 ], [ -2.8808884, 53.3706662 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1128277688, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8808884, 53.3706662 ], [ -2.8807521, 53.3706969 ], [ -2.8796279, 53.3709718 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1128277641, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8796279, 53.3709718 ], [ -2.8794106, 53.3710304 ], [ -2.8789685, 53.3710518 ], [ -2.8771546, 53.3712 ], [ -2.8768345, 53.3712262 ], [ -2.8758244, 53.3714611 ], [ -2.8750951, 53.3718231 ], [ -2.8749609, 53.3718904 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 4525461, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8808326, 53.3760312 ], [ -2.880966, 53.3759402 ], [ -2.8816081, 53.3759086 ], [ -2.8824567, 53.3758545 ], [ -2.8830736, 53.3758105 ], [ -2.8833192, 53.3757863 ], [ -2.884101, 53.3757239 ], [ -2.8846722, 53.3756589 ], [ -2.8853852, 53.3755404 ], [ -2.886194, 53.3754229 ], [ -2.8872746, 53.375267 ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WESLA_3_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1169904212, "highway": "cycleway", "name": "Northway", "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9155601, 53.5494213 ], [ -2.915428, 53.5494696 ], [ -2.915223, 53.5496532 ], [ -2.9137633, 53.5509608 ], [ -2.9119058, 53.5526082 ], [ -2.9116227, 53.5528592 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1169679040, "highway": "cycleway", "name": "Northway", "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9106205, 53.5533282 ], [ -2.9111047, 53.5528987 ], [ -2.9112447, 53.5527685 ], [ -2.911578, 53.5524736 ], [ -2.9149122, 53.5495235 ], [ -2.9151768, 53.5492894 ], [ -2.9154295, 53.5490706 ], [ -2.915449, 53.549025 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WARRI_124_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 296658674, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.5608213, 53.4305696 ], [ -2.5609494, 53.430442 ], [ -2.5611412, 53.4302945 ], [ -2.5613101, 53.430177 ], [ -2.5613894, 53.4301218 ], [ -2.5615968, 53.4300139 ], [ -2.5619078, 53.4298865 ], [ -2.5619946, 53.4298492 ], [ -2.5620246, 53.4298283 ], [ -2.5620408, 53.4298075 ], [ -2.5620435, 53.4297855 ], [ -2.5620365, 53.4297608 ], [ -2.5620103, 53.429731 ], [ -2.5619703, 53.4297032 ], [ -2.5611199, 53.4292731 ], [ -2.5601631, 53.428768 ], [ -2.5599764, 53.4287178 ] ] } }
+]
+}

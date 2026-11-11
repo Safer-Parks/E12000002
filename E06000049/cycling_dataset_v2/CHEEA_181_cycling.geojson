@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CHEEA_181_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1160484224, "highway": "primary", "name": "Middlewich Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3883495, 53.1479393 ], [ -2.3885129, 53.1480381 ], [ -2.3885305, 53.1480487 ], [ -2.3888424, 53.1482499 ], [ -2.3891307, 53.1484573 ], [ -2.3893536, 53.1486176 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 24576627, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3873889, 53.1517411 ], [ -2.387223, 53.1517265 ], [ -2.3870022, 53.151707 ], [ -2.3868318, 53.1517001 ], [ -2.386664, 53.1517036 ], [ -2.3866445, 53.1516559 ], [ -2.3866077, 53.1516217 ], [ -2.3865552, 53.1515927 ], [ -2.3864249, 53.1515927 ], [ -2.3863376, 53.1515919 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 773707185, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3858502, 53.1522518 ], [ -2.3857593, 53.1518315 ] ] } }
+]
+}

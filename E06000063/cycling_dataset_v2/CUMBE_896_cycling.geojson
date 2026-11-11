@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CUMBE_896_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 229351497, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.805991, 54.8804611 ], [ -2.8066688, 54.880446 ], [ -2.8073393, 54.8804954 ], [ -2.8079007, 54.8805414 ], [ -2.8092418, 54.8807666 ], [ -2.8110335, 54.8809827 ], [ -2.8119562, 54.8812326 ], [ -2.8132168, 54.8816369 ], [ -2.8134636, 54.881718 ], [ -2.8141181, 54.8819331 ], [ -2.8144295, 54.8821497 ], [ -2.8145105, 54.8823147 ] ] } }
+]
+}

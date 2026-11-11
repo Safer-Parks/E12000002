@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "LANCA_25_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 830770701, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8972678, 54.023138 ], [ -2.897378, 54.0228926 ], [ -2.8976292, 54.0223339 ], [ -2.8977249, 54.0222691 ], [ -2.8982661, 54.0219403 ], [ -2.8985903, 54.0217948 ], [ -2.8987889, 54.0217095 ], [ -2.8991931, 54.0215683 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1469457921, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "permissive", "access": "private", "foot": "permissive", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9059611, 54.0252539 ], [ -2.906046, 54.0253195 ], [ -2.9061848, 54.0254194 ], [ -2.9062298, 54.0254391 ], [ -2.9064125, 54.0255099 ], [ -2.9065476, 54.0255461 ], [ -2.9066409, 54.0255643 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1471811161, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "designated", "access": "private", "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9112374, 54.0288266 ], [ -2.9111324, 54.0288463 ], [ -2.9111177, 54.028814 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1471811167, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "designated", "access": "private", "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.910831, 54.0288143 ], [ -2.9108064, 54.0288184 ], [ -2.9107906, 54.0289035 ] ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "WIRRA_125_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 42267326, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9912123, 53.3242825 ], [ -2.9911144, 53.3242848 ], [ -2.9909005, 53.3242582 ], [ -2.9906871, 53.3243001 ], [ -2.9905276, 53.3242855 ], [ -2.9902444, 53.3242595 ], [ -2.9899655, 53.3242407 ], [ -2.989674, 53.3242648 ], [ -2.9893668, 53.3243079 ], [ -2.9887679, 53.3245656 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 42267327, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9887679, 53.3245656 ], [ -2.9881727, 53.3248127 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 42267328, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9881727, 53.3248127 ], [ -2.9877428, 53.3249234 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 42267329, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9877428, 53.3249234 ], [ -2.9877224, 53.3249302 ], [ -2.9876572, 53.3250243 ], [ -2.9875334, 53.3252331 ], [ -2.9873558, 53.3255146 ], [ -2.9871062, 53.3257774 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 833455772, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9780738, 53.3303482 ], [ -2.978076, 53.3303144 ] ] } }
+]
+}

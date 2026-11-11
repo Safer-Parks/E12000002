@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WESLA_138_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 941745995, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7605621, 53.6027559 ], [ -2.7603419, 53.6026825 ], [ -2.7599187, 53.6026265 ], [ -2.7596007, 53.6026197 ], [ -2.759291, 53.6026424 ], [ -2.7592177, 53.6026587 ], [ -2.7588562, 53.602739 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 941745996, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7588562, 53.602739 ], [ -2.7584644, 53.6030868 ], [ -2.7581693, 53.6033001 ], [ -2.7579111, 53.6034866 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 223560492, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7579111, 53.6034866 ], [ -2.7576871, 53.6036483 ], [ -2.7574237, 53.6038093 ], [ -2.7572145, 53.6041372 ], [ -2.7570187, 53.6042424 ], [ -2.7568234, 53.6042944 ], [ -2.7562435, 53.60443 ], [ -2.7559061, 53.6044472 ], [ -2.7552546, 53.6044842 ], [ -2.7551438, 53.6044905 ], [ -2.7549179, 53.6044896 ], [ -2.7547366, 53.604499 ], [ -2.7546508, 53.60453 ], [ -2.7543508, 53.6046651 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 941745994, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7543508, 53.6046651 ], [ -2.7541943, 53.6047356 ], [ -2.7539669, 53.6048095 ], [ -2.7537496, 53.6048801 ], [ -2.7535445, 53.6049616 ], [ -2.7533521, 53.605038 ], [ -2.7528045, 53.6051092 ], [ -2.7526845, 53.6051382 ] ] } }
+]
+}

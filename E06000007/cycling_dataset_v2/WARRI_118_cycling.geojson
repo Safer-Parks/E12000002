@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WARRI_118_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 478341320, "highway": "footway", "name": "Linear Park (Top Path)", "category": "Shared path", "bicycle": "permissive", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.5304237, 53.4500597 ], [ -2.5304415, 53.4501733 ], [ -2.5309733, 53.4503494 ], [ -2.5318091, 53.4505606 ], [ -2.535091, 53.4510018 ], [ -2.5379391, 53.4520085 ], [ -2.5386895, 53.4522738 ], [ -2.5416584, 53.4536931 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 506219047, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.5259639, 53.4557525 ], [ -2.5253626, 53.4560432 ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CUMBE_105_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 462798940, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.5717153, 54.5925535 ], [ -3.571479, 54.5936993 ], [ -3.5712323, 54.5947249 ], [ -3.5710979, 54.595197 ], [ -3.5710713, 54.5952905 ], [ -3.5709533, 54.5959494 ], [ -3.5708665, 54.5965896 ], [ -3.5707924, 54.5971365 ], [ -3.5707017, 54.5975093 ], [ -3.5706693, 54.5976616 ], [ -3.5706109, 54.5979283 ], [ -3.5704474, 54.5986748 ], [ -3.5704332, 54.5987399 ], [ -3.5703581, 54.5989326 ], [ -3.570201, 54.5991668 ], [ -3.5701704, 54.5992123 ], [ -3.5699022, 54.5996505 ], [ -3.569677, 54.6000225 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 533330624, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.5544549, 54.6134537 ], [ -3.5535012, 54.6133289 ], [ -3.5529562, 54.6133699 ], [ -3.5521351, 54.6133904 ], [ -3.5516125, 54.613496 ] ] } }
+]
+}

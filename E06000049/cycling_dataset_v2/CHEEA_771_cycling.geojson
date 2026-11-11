@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CHEEA_771_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1080882338, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.2310862, 53.2473911 ], [ -2.2305367, 53.2471927 ], [ -2.2304545, 53.2470616 ] ] } }
+]
+}

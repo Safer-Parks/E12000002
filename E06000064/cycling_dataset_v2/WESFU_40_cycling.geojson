@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WESFU_40_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 49059334, "highway": "cycleway", "name": "Outcast Rope Walk", "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_footpath", "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.0738182, 54.1904306 ], [ -3.0741078, 54.1904529 ], [ -3.0743277, 54.1904702 ], [ -3.0744645, 54.1904937 ], [ -3.0748226, 54.1905007 ], [ -3.0751807, 54.1905329 ], [ -3.0798767, 54.1912686 ], [ -3.0800305, 54.1911929 ], [ -3.080481, 54.1911432 ], [ -3.0808822, 54.1911416 ], [ -3.0811501, 54.1911465 ], [ -3.081655, 54.1911222 ], [ -3.0821266, 54.1910288 ], [ -3.0822261, 54.1910062 ], [ -3.0823631, 54.1909663 ] ] } }
+]
+}

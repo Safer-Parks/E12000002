@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WIRRA_78_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 562542659, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.0417419, 53.4286306 ], [ -3.0417791, 53.4285035 ], [ -3.0418574, 53.4285084 ], [ -3.0419682, 53.4285153 ], [ -3.0419834, 53.4285758 ], [ -3.042127, 53.4286224 ], [ -3.0421224, 53.4286678 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 154470901, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.0469724, 53.4340543 ], [ -3.0469754, 53.434097 ], [ -3.0469899, 53.4341417 ], [ -3.0466251, 53.4342885 ], [ -3.0464415, 53.4343446 ], [ -3.0463133, 53.4343424 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 154405751, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.0617189, 53.4366719 ], [ -3.061689, 53.4365943 ], [ -3.0615714, 53.4363822 ], [ -3.0614522, 53.4362289 ], [ -3.0612843, 53.4360102 ], [ -3.0611525, 53.4358186 ], [ -3.0610976, 53.4356896 ], [ -3.0610877, 53.4356503 ], [ -3.0610712, 53.435604 ], [ -3.0610453, 53.4355448 ], [ -3.0610004, 53.4354551 ], [ -3.0608215, 53.4350822 ], [ -3.0606207, 53.4346541 ], [ -3.0605642, 53.4345196 ], [ -3.0605288, 53.4344227 ] ] } }
+]
+}

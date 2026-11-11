@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CHEEA_662_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 221346599, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4481623, 53.2756137 ], [ -2.4481125, 53.2755648 ], [ -2.4480197, 53.2754822 ], [ -2.4479642, 53.2754331 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 532970832, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4479642, 53.2754331 ], [ -2.447782, 53.2754967 ], [ -2.4474313, 53.2755881 ], [ -2.4472323, 53.2756617 ], [ -2.4471423, 53.2756976 ] ] } }
+]
+}

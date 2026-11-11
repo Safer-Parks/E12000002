@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BURNL_52_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 722563297, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "permissive", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.2400391, 53.7842976 ], [ -2.2400975, 53.7843006 ], [ -2.2401378, 53.784276 ], [ -2.2401909, 53.7842274 ], [ -2.2402364, 53.7841405 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 223155462, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.244096, 53.7854232 ], [ -2.2439001, 53.7854154 ], [ -2.2438276, 53.7853906 ], [ -2.2437896, 53.7853337 ], [ -2.2438826, 53.7851125 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 233921265, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "permissive", "access": null, "foot": "designated", "designatn": "public_footpath", "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.2372573, 53.7890405 ], [ -2.2373898, 53.7889924 ], [ -2.2380359, 53.7878163 ], [ -2.2380589, 53.7877676 ], [ -2.2387105, 53.786631 ], [ -2.2400391, 53.7842976 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1443270215, "highway": "secondary", "name": "Hammerton Street", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.2453792, 53.7869828 ], [ -2.2455739, 53.7870945 ], [ -2.245591, 53.7871033 ], [ -2.2457411, 53.7872152 ] ] } }
+]
+}

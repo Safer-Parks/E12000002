@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WIGAN_123_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 907406751, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.6260335, 53.4881001 ], [ -2.6260668, 53.4881306 ], [ -2.6264269, 53.4881957 ], [ -2.6265212, 53.4881489 ] ] } }
+]
+}

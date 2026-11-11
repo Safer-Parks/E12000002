@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BURNL_50_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 797254883, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.2673956, 53.7816596 ], [ -2.2674013, 53.7816341 ], [ -2.2674068, 53.7815679 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 829775387, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.2685397, 53.7816025 ], [ -2.2685338, 53.7816747 ], [ -2.2685318, 53.7817083 ] ] } }
+]
+}

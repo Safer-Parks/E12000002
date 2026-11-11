@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CHORL_12_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 33956724, "highway": "primary", "name": "Balshaw Lane", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.6731225, 53.6608382 ], [ -2.6729626, 53.6608059 ], [ -2.6728563, 53.6608107 ], [ -2.6727702, 53.6608096 ], [ -2.6726443, 53.6608023 ], [ -2.6722035, 53.6607689 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 503408678, "highway": "primary", "name": "Balshaw Lane", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.6692479, 53.6607936 ], [ -2.6696399, 53.6608247 ], [ -2.6702729, 53.6608518 ], [ -2.6704886, 53.6608611 ], [ -2.6711806, 53.6608142 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 503408676, "highway": "primary", "name": "Balshaw Lane", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.6739364, 53.6609456 ], [ -2.6738943, 53.6609419 ], [ -2.6736875, 53.6609197 ], [ -2.6732489, 53.6608546 ], [ -2.6731225, 53.6608382 ] ] } }
+]
+}

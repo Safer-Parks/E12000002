@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CUMBE_369_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 375798877, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.3447189, 54.4222687 ], [ -3.3452642, 54.4221378 ], [ -3.3456912, 54.4221267 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 55493175, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.3424842, 54.4248777 ], [ -3.3428585, 54.4245913 ], [ -3.3430881, 54.4243948 ], [ -3.3436697, 54.4239133 ], [ -3.3437101, 54.423873 ], [ -3.3437908, 54.4237925 ], [ -3.3442222, 54.4232041 ], [ -3.3444204, 54.4230286 ], [ -3.3444594, 54.4229864 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 55493176, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.3425045, 54.425005 ], [ -3.3424842, 54.4248777 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1165051730, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.3421332, 54.4256494 ], [ -3.3422199, 54.4254807 ], [ -3.3422602, 54.425451 ], [ -3.3422557, 54.4254254 ], [ -3.3422379, 54.4253824 ], [ -3.342244, 54.4253472 ], [ -3.3423366, 54.42525 ], [ -3.3424361, 54.4251553 ], [ -3.3424933, 54.4250887 ], [ -3.3425045, 54.425005 ] ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WESFU_754_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 984445174, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "permissive", "access": null, "foot": "permissive", "designatn": null, "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.5953561, 54.6476821 ], [ -2.5954664, 54.6477467 ], [ -2.5956273, 54.6478166 ], [ -2.5957453, 54.6478647 ], [ -2.5958473, 54.647888 ], [ -2.596027, 54.647919 ], [ -2.5961718, 54.6479578 ], [ -2.5962471, 54.6479901 ], [ -2.5963816, 54.6480646 ], [ -2.5964479, 54.6480984 ], [ -2.5965462, 54.6481577 ], [ -2.5966399, 54.648202 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1132502096, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "permissive", "access": "no", "foot": "permissive", "designatn": null, "segregatd": null, "surface": "grass_paver" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.5966399, 54.648202 ], [ -2.5968764, 54.6482987 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 810144721, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "permissive", "access": "no", "foot": "permissive", "designatn": null, "segregatd": null, "surface": "grass_paver" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.5970978, 54.6481409 ], [ -2.5969761, 54.6482038 ], [ -2.5968764, 54.6482987 ], [ -2.5971664, 54.6484288 ], [ -2.5974345, 54.648496 ], [ -2.5976148, 54.6485134 ], [ -2.5978027, 54.6485206 ], [ -2.5982317, 54.6485149 ], [ -2.5982328, 54.6483609 ] ] } }
+]
+}

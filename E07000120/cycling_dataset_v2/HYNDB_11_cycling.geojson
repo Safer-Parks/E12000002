@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HYNDB_11_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1021483068, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.397741, 53.7886597 ], [ -2.3978638, 53.7886464 ] ] } }
+]
+}

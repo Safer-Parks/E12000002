@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "OLDHA_45_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 507957957, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0858811, 53.5740481 ], [ -2.0853986, 53.5738171 ], [ -2.0849704, 53.5735817 ], [ -2.084527, 53.5731868 ], [ -2.0844905, 53.5731136 ], [ -2.0845183, 53.5729649 ], [ -2.0845202, 53.5729548 ], [ -2.084299, 53.5729234 ], [ -2.0841157, 53.572891 ], [ -2.0839694, 53.5728648 ], [ -2.08186, 53.5722672 ], [ -2.0817048, 53.5714603 ], [ -2.0817273, 53.570799 ], [ -2.0817705, 53.5707749 ] ] } }
+]
+}

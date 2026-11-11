@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "RIBVA_14_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4500097, "highway": "primary", "name": "Queensway", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3930213, 53.8678163 ], [ -2.392596, 53.8679136 ], [ -2.3921491, 53.8679792 ], [ -2.3920009, 53.8679939 ], [ -2.3918272, 53.8679959 ], [ -2.3916512, 53.8680076 ], [ -2.3915311, 53.8680262 ], [ -2.3913524, 53.868062 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 59181878, "highway": "secondary", "name": null, "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3929625, 53.8684474 ], [ -2.3929748, 53.8683735 ], [ -2.3930376, 53.8681117 ], [ -2.3930406, 53.8680796 ], [ -2.393057, 53.8679037 ], [ -2.3930213, 53.8678163 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 59181890, "highway": "secondary", "name": null, "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.3929244, 53.8685583 ], [ -2.3929625, 53.8684474 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 4500096, "highway": "secondary", "name": null, "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.392538, 53.8693723 ], [ -2.3925511, 53.8693405 ], [ -2.3925563, 53.8693279 ], [ -2.3927517, 53.868916 ], [ -2.3928473, 53.868718 ], [ -2.3928969, 53.8686153 ], [ -2.3929244, 53.8685583 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 804658980, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "concrete" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.4147397, 53.8665998 ], [ -2.414767, 53.8666394 ], [ -2.4147963, 53.8666504 ], [ -2.4149605, 53.8666431 ], [ -2.4150828, 53.8666609 ], [ -2.4152161, 53.8666989 ], [ -2.4153615, 53.8667047 ], [ -2.4155122, 53.8667232 ], [ -2.4155216, 53.8667259 ], [ -2.4158489, 53.8668186 ] ] } }
+]
+}

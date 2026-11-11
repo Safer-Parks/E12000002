@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CUMBE_478_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 799025092, "highway": "bridleway", "name": "Harpers Lane", "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.4411427, 54.6465342 ], [ -3.4412009, 54.6465511 ], [ -3.4413563, 54.6465841 ], [ -3.4414371, 54.6466172 ], [ -3.4415249, 54.6466603 ], [ -3.441743, 54.6468112 ], [ -3.4418995, 54.6469492 ], [ -3.4419792, 54.6469929 ], [ -3.4420836, 54.6470276 ], [ -3.4422053, 54.6470494 ], [ -3.4423576, 54.6470625 ], [ -3.4425583, 54.6470537 ], [ -3.4431673, 54.6469291 ], [ -3.4434956, 54.6468419 ], [ -3.4437426, 54.6468224 ], [ -3.4439896, 54.6468192 ], [ -3.4444135, 54.6467641 ], [ -3.4445497, 54.6467527 ], [ -3.4446971, 54.646752 ], [ -3.4448189, 54.6467654 ], [ -3.4449425, 54.6467884 ], [ -3.4450982, 54.6468021 ], [ -3.4452429, 54.6468259 ], [ -3.4454158, 54.6468355 ], [ -3.4456468, 54.6468595 ], [ -3.4459213, 54.6469012 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 784187606, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": "permissive", "foot": "designated", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.4394393, 54.651295 ], [ -3.4394539, 54.6512001 ], [ -3.4396784, 54.6510183 ] ] } }
+]
+}

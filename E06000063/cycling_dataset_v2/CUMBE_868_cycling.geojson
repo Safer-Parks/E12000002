@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CUMBE_868_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 333084090, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "yes", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9480831, 54.910333 ], [ -2.9479464, 54.9104353 ], [ -2.9479108, 54.910462 ], [ -2.9478723, 54.9104823 ], [ -2.9478356, 54.9104925 ], [ -2.9477468, 54.9105112 ], [ -2.9471648, 54.9106407 ], [ -2.9464255, 54.9108 ], [ -2.9462901, 54.9108288 ], [ -2.946148, 54.9108641 ], [ -2.9460854, 54.9108797 ], [ -2.9459256, 54.9109239 ], [ -2.9458584, 54.9109486 ], [ -2.9458369, 54.9109875 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 336652449, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9454983, 54.9151732 ], [ -2.9453538, 54.9151301 ], [ -2.9450901, 54.9151219 ], [ -2.9433775, 54.9150951 ], [ -2.9433365, 54.9150945 ], [ -2.9431768, 54.915092 ], [ -2.9422457, 54.9150774 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 842255668, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9308843, 54.9168673 ], [ -2.9311509, 54.9167713 ], [ -2.9316797, 54.9166238 ], [ -2.9317869, 54.9165967 ] ] } }
+]
+}

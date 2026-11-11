@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WIGAN_81_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 527871923, "highway": "track", "name": "Close Lane", "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.5646335, 53.5233291 ], [ -2.5639984, 53.5233658 ], [ -2.563091, 53.5234286 ], [ -2.5623804, 53.5234496 ], [ -2.5618777, 53.5234612 ], [ -2.5609901, 53.5234567 ], [ -2.560756, 53.5234925 ], [ -2.5605873, 53.5235744 ], [ -2.5605122, 53.5237429 ], [ -2.5605999, 53.5243173 ], [ -2.5606194, 53.5244831 ], [ -2.5606275, 53.5246336 ], [ -2.5605929, 53.5247761 ] ] } }
+]
+}

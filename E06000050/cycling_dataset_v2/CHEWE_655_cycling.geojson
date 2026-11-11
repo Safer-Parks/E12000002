@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CHEWE_655_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 46762377, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "permissive", "access": null, "foot": "designated", "designatn": "public_footpath", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7023887, 53.2508103 ], [ -2.7028996, 53.2509214 ], [ -2.7034793, 53.2510286 ], [ -2.7040797, 53.2511613 ], [ -2.704343, 53.2512412 ], [ -2.7051806, 53.2513975 ], [ -2.7053055, 53.2514622 ], [ -2.7055281, 53.2515392 ], [ -2.7066064, 53.2519468 ], [ -2.707344, 53.2522534 ], [ -2.7079595, 53.2525137 ], [ -2.7088192, 53.2528808 ], [ -2.7099158, 53.2533303 ], [ -2.7113257, 53.2539133 ], [ -2.7116329, 53.2540217 ], [ -2.7119822, 53.2541577 ], [ -2.7123222, 53.2542079 ], [ -2.7125907, 53.2542413 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 46762402, "highway": "path", "name": null, "category": "Shared path", "bicycle": "permissive", "access": null, "foot": "yes", "designatn": "public_footpath", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7125907, 53.2542413 ], [ -2.7150097, 53.2545319 ], [ -2.7165092, 53.2547068 ], [ -2.7173232, 53.2548016 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 28486341, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "permissive", "access": "private", "foot": "yes", "designatn": "public_footpath", "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7173232, 53.2548016 ], [ -2.7176331, 53.2548375 ], [ -2.7184725, 53.2549348 ], [ -2.7185945, 53.2549452 ], [ -2.7188137, 53.254946 ] ] } }
+]
+}

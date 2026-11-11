@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "OLDHA_64_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1426923118, "highway": "unclassified", "name": "Failsworth Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1366026, 53.5061143 ], [ -2.1366921, 53.5063091 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1426923117, "highway": "unclassified", "name": "Failsworth Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1366921, 53.5063091 ], [ -2.1367929, 53.5064908 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 906807614, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1225052, 53.5059309 ], [ -2.1226368, 53.5059819 ], [ -2.1230516, 53.5061627 ], [ -2.1241883, 53.5066623 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 906807615, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1241883, 53.5066623 ], [ -2.1243726, 53.5067451 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 357558536, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1243726, 53.5067451 ], [ -2.1250548, 53.5070013 ], [ -2.1257429, 53.5072002 ], [ -2.1267787, 53.5074722 ], [ -2.1270095, 53.5075338 ], [ -2.1273163, 53.5075705 ], [ -2.12783, 53.5075295 ], [ -2.1282747, 53.5074376 ], [ -2.128503, 53.5073824 ], [ -2.1285934, 53.5073895 ], [ -2.1286552, 53.5074447 ], [ -2.1287265, 53.5074772 ], [ -2.1288716, 53.5074673 ], [ -2.1290366, 53.507427 ] ] } }
+]
+}

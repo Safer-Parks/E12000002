@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WESLA_216_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 521659001, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "permissive", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8075373, 53.6347004 ], [ -2.807702, 53.6345616 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 521659002, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8077572, 53.6346972 ], [ -2.8078744, 53.6345668 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1063626999, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "permissive", "access": null, "foot": "permissive", "designatn": null, "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8111223, 53.6357656 ], [ -2.8111757, 53.6358502 ], [ -2.811218, 53.6359173 ], [ -2.8113436, 53.6361352 ], [ -2.8115854, 53.6365391 ], [ -2.8118107, 53.6369304 ], [ -2.8121111, 53.6373661 ], [ -2.812229, 53.6375405 ], [ -2.8124758, 53.6379285 ], [ -2.8126502, 53.6381882 ], [ -2.8129479, 53.6386505 ], [ -2.8130873, 53.6388572 ], [ -2.8132618, 53.6391519 ], [ -2.8139, 53.6401118 ], [ -2.8140436, 53.6403486 ], [ -2.8143467, 53.6408202 ], [ -2.8145626, 53.6411596 ], [ -2.8147362, 53.6413973 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 236857724, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8162436, 53.6409749 ], [ -2.8155471, 53.6411682 ], [ -2.8149532, 53.6413335 ] ] } }
+]
+}

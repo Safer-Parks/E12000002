@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "KNOWS_3_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 448802887, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7990311, 53.4259769 ], [ -2.7989623, 53.4259233 ], [ -2.7988497, 53.4258594 ], [ -2.7985413, 53.4256908 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 39515899, "highway": "unclassified", "name": "Market Place", "category": "Traffic-free road", "bicycle": "yes", "access": "no", "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8053655, 53.4285507 ], [ -2.8053985, 53.4285984 ], [ -2.8054193, 53.4286286 ], [ -2.8054394, 53.4286579 ], [ -2.8054925, 53.4287357 ], [ -2.8055332, 53.428778 ], [ -2.8055925, 53.4288101 ], [ -2.8056655, 53.4288345 ], [ -2.8057683, 53.4288586 ], [ -2.8063794, 53.4289863 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 326623063, "highway": "pedestrian", "name": "Mill Street", "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8049806, 53.4288091 ], [ -2.805085, 53.4289057 ], [ -2.8051461, 53.4290074 ], [ -2.8051554, 53.4290273 ], [ -2.8051602, 53.4290401 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1423258024, "highway": "unclassified", "name": "Market Place", "category": "Traffic-free road", "bicycle": "yes", "access": "no", "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8063794, 53.4289863 ], [ -2.8065749, 53.4290271 ], [ -2.8066529, 53.429036 ] ] } }
+]
+}

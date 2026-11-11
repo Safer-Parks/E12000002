@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WESFU_36_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 709873553, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.6971652, 54.751149 ], [ -2.6963124, 54.7503992 ], [ -2.6953919, 54.7494075 ], [ -2.6947782, 54.7484645 ], [ -2.6943256, 54.7476365 ], [ -2.6942043, 54.7470361 ], [ -2.6943792, 54.7464123 ], [ -2.6947703, 54.7458539 ], [ -2.6947394, 54.74545 ], [ -2.6937411, 54.7444341 ], [ -2.691868, 54.7436737 ], [ -2.6894267, 54.7430188 ], [ -2.6880673, 54.7428434 ], [ -2.6865319, 54.7431019 ], [ -2.6862445, 54.7428364 ], [ -2.6855235, 54.7422696 ], [ -2.6852243, 54.7420969 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1435678692, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.6857348, 54.7501008 ], [ -2.685085, 54.7500251 ], [ -2.6841919, 54.7499307 ], [ -2.6821856, 54.7497728 ], [ -2.6816009, 54.7495994 ], [ -2.6801149, 54.7489988 ], [ -2.6787202, 54.7481783 ], [ -2.6783554, 54.7479801 ], [ -2.677717, 54.7474538 ], [ -2.6774166, 54.746915 ], [ -2.6772289, 54.746175 ], [ -2.6771752, 54.7453854 ], [ -2.6772025, 54.7451902 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1435678694, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.6971652, 54.751149 ], [ -2.6955393, 54.751892 ], [ -2.6942006, 54.7515332 ], [ -2.6929043, 54.7512849 ], [ -2.6912874, 54.7510684 ], [ -2.6889881, 54.7507501 ], [ -2.6883807, 54.7505245 ], [ -2.6877229, 54.7504799 ], [ -2.6857348, 54.7501008 ] ] } }
+]
+}

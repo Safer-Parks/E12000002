@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WESLA_16_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 923395306, "highway": "cycleway", "name": "The Pads", "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_footpath", "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8769452, 53.5729215 ], [ -2.8778677, 53.5733739 ], [ -2.877966, 53.5734228 ], [ -2.8783667, 53.5735584 ], [ -2.8784202, 53.5735881 ], [ -2.8784013, 53.5736085 ], [ -2.8783825, 53.5736289 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 400480559, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8902762, 53.5780765 ], [ -2.8911248, 53.5780657 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 400480557, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8909893, 53.5799767 ], [ -2.8911158, 53.5795073 ], [ -2.89069, 53.5793787 ], [ -2.8900349, 53.5792035 ], [ -2.8900098, 53.5791904 ], [ -2.8899918, 53.5791703 ], [ -2.8897461, 53.5786708 ], [ -2.8897443, 53.5786505 ], [ -2.8897553, 53.5786302 ], [ -2.890175, 53.5783022 ], [ -2.8902762, 53.5780765 ], [ -2.8900497, 53.5777663 ], [ -2.8895856, 53.5776173 ], [ -2.8886001, 53.5773034 ], [ -2.8885626, 53.5772216 ] ] } }
+]
+}

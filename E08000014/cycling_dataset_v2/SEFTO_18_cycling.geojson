@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SEFTO_18_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 352035071, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": null, "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.0450999, 53.5990622 ], [ -3.0454807, 53.5988057 ], [ -3.0454807, 53.5987102 ], [ -3.0453466, 53.5986306 ], [ -3.0451482, 53.5985172 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1099946167, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.0334868, 53.6002675 ], [ -3.0334099, 53.6002568 ], [ -3.0333134, 53.6002433 ] ] } }
+]
+}

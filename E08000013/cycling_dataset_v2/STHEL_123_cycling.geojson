@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "STHEL_123_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 339838827, "highway": "track", "name": "Holme Road", "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7682098, 53.4492877 ], [ -2.7683085, 53.4491086 ], [ -2.768343, 53.449046 ], [ -2.768371, 53.4489953 ], [ -2.7708946, 53.448436 ], [ -2.7718389, 53.4480776 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1094378082, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.7522032, 53.4584556 ], [ -2.7523043, 53.4584292 ], [ -2.7523669, 53.4584129 ] ] } }
+]
+}

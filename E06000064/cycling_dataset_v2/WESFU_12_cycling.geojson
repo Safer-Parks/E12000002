@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WESFU_12_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1485736947, "highway": "tertiary", "name": null, "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.1664088, 54.1396326 ], [ -3.1676921, 54.1394217 ], [ -3.1689116, 54.1393026 ], [ -3.1693329, 54.1392614 ], [ -3.1697461, 54.1391984 ], [ -3.1699382, 54.1391363 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1485736949, "highway": "tertiary", "name": "Greystone Lane", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.1664088, 54.1396326 ], [ -3.1668881, 54.1404163 ], [ -3.1670839, 54.1408499 ], [ -3.1671732, 54.1410049 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 303619590, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.1640982, 54.148615 ], [ -3.1640602, 54.1483698 ], [ -3.1640652, 54.1481152 ], [ -3.1640813, 54.1475748 ], [ -3.1642476, 54.1473443 ], [ -3.164303, 54.1471967 ], [ -3.1642653, 54.146971 ], [ -3.1641886, 54.1467453 ], [ -3.1640796, 54.1464485 ], [ -3.1636844, 54.1460447 ], [ -3.1633706, 54.1455647 ], [ -3.1632954, 54.1451107 ], [ -3.1630245, 54.1442388 ], [ -3.1631113, 54.1437431 ], [ -3.1633558, 54.1430337 ], [ -3.1633924, 54.1429644 ] ] } }
+]
+}

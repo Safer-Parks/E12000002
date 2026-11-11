@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WIRRA_128_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 218448741, "highway": "bridleway", "name": "Brunchion Heath Lane", "category": "Bridleway", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.0212953, 53.3049526 ], [ -3.0212561, 53.3049123 ], [ -3.0211446, 53.3049 ], [ -3.0196283, 53.3035768 ], [ -3.0194986, 53.3034188 ], [ -3.0184773, 53.3026327 ], [ -3.0171587, 53.3014608 ], [ -3.0166704, 53.3009504 ], [ -3.016574, 53.3009041 ], [ -3.0163471, 53.3007746 ], [ -3.0163057, 53.3006578 ], [ -3.0159397, 53.3007036 ], [ -3.0151424, 53.3007982 ], [ -3.0144534, 53.3008831 ], [ -3.0130875, 53.3009889 ], [ -3.0110184, 53.3010115 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 321225225, "highway": "bridleway", "name": "Bluebell Lane", "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.030316, 53.2983822 ], [ -3.0294088, 53.2993235 ], [ -3.0285988, 53.3001539 ], [ -3.0280891, 53.3006444 ], [ -3.0277029, 53.300981 ], [ -3.0271826, 53.3013304 ], [ -3.0259326, 53.3020197 ], [ -3.025717, 53.3021252 ] ] } }
+]
+}

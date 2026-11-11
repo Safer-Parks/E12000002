@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "STOC5_1_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 268859698, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1188396, 53.3848306 ], [ -2.1188589, 53.3850606 ], [ -2.1188666, 53.3850933 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 208255672, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.104293, 53.3813373 ], [ -2.1041342, 53.3812876 ], [ -2.1040055, 53.3811852 ], [ -2.1039035, 53.3811004 ], [ -2.1037237, 53.381007 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 219572298, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1021957, 53.392132 ], [ -2.1027201, 53.3913287 ], [ -2.103191, 53.3914189 ], [ -2.1038062, 53.3915367 ] ] } }
+]
+}

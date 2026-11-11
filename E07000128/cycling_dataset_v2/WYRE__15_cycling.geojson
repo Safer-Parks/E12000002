@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "WYRE__15_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 869095793, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_footpath", "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.0026922, 53.8559897 ], [ -3.0027424, 53.8560209 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1360636496, "highway": "secondary", "name": "Fleetwood Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.0064965, 53.8564013 ], [ -3.0066789, 53.8572273 ], [ -3.0067053, 53.857364 ], [ -3.0067499, 53.8575948 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 70224361, "highway": "secondary", "name": "Fleetwood Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.0067499, 53.8575948 ], [ -3.0067869, 53.8577713 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1360636498, "highway": "secondary", "name": "Fleetwood Road South", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.0067869, 53.8577713 ], [ -3.0068573, 53.8582018 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1360636497, "highway": "secondary", "name": "Fleetwood Road South", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.0068573, 53.8582018 ], [ -3.0068961, 53.8583629 ], [ -3.0069299, 53.8585462 ], [ -3.006967, 53.8587469 ], [ -3.0069792, 53.8588237 ], [ -3.0069829, 53.8588473 ], [ -3.0070083, 53.8590085 ], [ -3.0070145, 53.8591136 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1360636499, "highway": "secondary", "name": "Fleetwood Road South", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.0070145, 53.8591136 ], [ -3.0070164, 53.8592724 ] ] } }
+]
+}

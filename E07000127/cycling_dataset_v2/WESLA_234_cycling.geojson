@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WESLA_234_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1063626999, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "permissive", "access": null, "foot": "permissive", "designatn": null, "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8111223, 53.6357656 ], [ -2.8111757, 53.6358502 ], [ -2.811218, 53.6359173 ], [ -2.8113436, 53.6361352 ], [ -2.8115854, 53.6365391 ], [ -2.8118107, 53.6369304 ], [ -2.8121111, 53.6373661 ], [ -2.812229, 53.6375405 ], [ -2.8124758, 53.6379285 ], [ -2.8126502, 53.6381882 ], [ -2.8129479, 53.6386505 ], [ -2.8130873, 53.6388572 ], [ -2.8132618, 53.6391519 ], [ -2.8139, 53.6401118 ], [ -2.8140436, 53.6403486 ], [ -2.8143467, 53.6408202 ], [ -2.8145626, 53.6411596 ], [ -2.8147362, 53.6413973 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 236857724, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8162436, 53.6409749 ], [ -2.8155471, 53.6411682 ], [ -2.8149532, 53.6413335 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 924133541, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.8304674, 53.6436952 ], [ -2.8303346, 53.6439065 ], [ -2.8302306, 53.6440534 ], [ -2.8300619, 53.6440986 ], [ -2.8294341, 53.6442061 ], [ -2.8292352, 53.6442317 ], [ -2.8286335, 53.6442561 ], [ -2.8283498, 53.6442793 ], [ -2.8277841, 53.6443418 ], [ -2.8275879, 53.6443346 ], [ -2.8274574, 53.6443089 ] ] } }
+]
+}
